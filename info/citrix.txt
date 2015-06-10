@@ -1,0 +1,145 @@
+= System tools =
+
+MMC.exe – Microsoft Management Console, allows a large degree of control over the system using “snap-ins”
+Mstsc.exe – Microsoft Terminal Services, can allow remote desktop connection to another host
+Regedit.exe – Registry control
+Taskmgr.exe – Task Manager
+Control.exe – Control Panel shortcut
+Rundll32.exe – An alternative method of accessing areas of the OS that may be hidden via native API calls
+Dxdiag.exe – DirectX diagnostic tool, useful for enumerating system information
+Msconfig.exe – System configuration, shows verbose system information and has links to system tools
+Eventvwr.exe – Local events viewer
+Systeminfo.exe – Command line system info collector
+Msinfo32.exe – System Information
+Osk.exe – On Screen Keyboard, can be useful in Kiosk style environments where no keyboard is available
+At.exe – Task Scheduler
+Taskschd.msc – Task Scheduler GUI
+Explorer.exe – Brings up a new instance of Windows Explorer
+WMIC.exe
+Qwinsta.exe – Displays information about RDP sessions
+Tasklist.exe / qprocess.exe – List process information
+
+== RUNDLL32.exe ==
+
+Stored Usernames and Passwords: RunDll32.exe keymgr.dll,KRShowKeyMgr
+Date and Time Properties: RunDll32.exe shell32.dll,Control_RunDLL timedate.cpl
+Forgotten Password Wizard: RunDll32.exe keymgr.dll,PRShowSaveWizardExW
+Keyboard Properties: RunDll32.exe shell32.dll,Control_RunDLL main.cpl @1
+Lock Screen: RunDll32.exe user32.dll,LockWorkStation
+Network Connections: RunDll32.exe shell32.dll,Control_RunDLL ncpa.cpl
+Open With Dialog Box: Rundll32 Shell32.dll,OpenAs_RunDLL FILE.ext
+Printer User Interface: Rundll32 Printui.dll,PrintUIEntry /?
+Windows About: RunDll32.exe SHELL32.DLL,ShellAboutW
+Add/Remove Programs: RunDll32.exe shell32.dll,Control_RunDLL appwiz.cpl,,0Content Advisor
+Control Panel: RunDll32.exe shell32.dll,Control_RunDLL
+Device Manager: RunDll32.exe devmgr.dll DeviceManager_Execute
+Folder Options – General: RunDll32.exe shell32.dll,Options_RunDLL 0
+Folder Options – Search: RunDll32.exe shell32.dll,Options_RunDLL 2
+Forgotten Password Wizard:  RunDll32.exe keymgr.dll,PRShowSaveWizardExW
+System Properties Box: Rundll32 Shell32.dll,Control_RunDLL Sysdm.cpl,,3
+System Properties: Advanced: RunDll32.exe shell32.dll,Control_RunDLL sysdm.cpl,,4
+Taskbar Properties: RunDll32.exe shell32.dll,Options_RunDLL 1
+User Accounts: RunDll32.exe shell32.dll,Control_RunDLL nusrmgr.cpl
+Windows Firewall: RunDll32.exe shell32.dll,Control_RunDLL firewall.cpl
+Active Directory search: rundll32.exe dsquery,OpenQueryWindow
+
+= LDAP Queries =
+
+Find computers with a common name:
+    (&(objectclass=Computer)(CN=NOMBRE))
+
+Find computers NOT with a common name (wildcards):
+    (&(objectclass=computer)(!(|(cn=XP*)(cn=TEST*))))
+
+Find all users with password status X :
+(&(objectCategory=person)(userAccountControl:1.2.840.113556.1.4.803:= [X] ))
+
+    2 - Disabled.
+
+[X] https://msdn.microsoft.com/en-us/library/aa772300%28v=vs.85%29.aspx
+[i]
+    http://support.microsoft.com/kb/269181
+    http://support.microsoft.com/kb/305144
+    http://blogs.msdn.com/b/muaddib/archive/2008/10/08/query-individual-properties-of-the-useraccountcontrol-active-directory-user-property.aspx
+    http://blogs.msdn.com/b/muaddib/archive/2011/10/24/active-directory-ldap-searches.aspx
+    https://msdn.microsoft.com/en-us/library/aa772300%28v=vs.85%29.aspx
+
+= Commands =
+
+== Gets a list of running services, removes System32 based executables and saves the others to a file ==
+for /f "tokens=2 delims='='" %a in ('wmic service list full^|find /i "pathname"^|find /i /v "system32"') do @echo %a >> c:\windows\temp\permissions.txt
+
+== Parses the previous file and retrieves the permissions of that executable ==
+for /f eol^=^"^ delims^=^" %a in (c:\windows\temp\permissions.txt) do cmd.exe /c icacls "%a"
+
+== Find string in some files ==
+
+    findstr /si password *.txt # Or any other filetype: *.ini, *.xml ,*.conf
+
+= Files =
+
+C:\sysprep.inf
+C:\sysprep\sysprep.xml
+%WINDIR%\Panther\Unattend\Unattended.xml
+%WINDIR%\Panther\Unattended.xml
+%WINDIR%\debug\NetSetup.log
+%WINDIR%\repair\sam
+%WINDIR%\repair\system
+%WINDIR%\repair\software
+%WINDIR%\repair\security
+%WINDIR%\system32\config\AppEvent.Evt
+%WINDIR%\system32\config\SecEvent.Evt
+%WINDIR%\system32\config\default.sav
+%WINDIR%\system32\config\security.sav
+%WINDIR%\system32\config\software.sav
+%WINDIR%\system32\config\system.sav
+%USERPROFILE%\ntuser.dat
+
+= Windows shortcuts = (To open Windows system dialogs)
+
+    Shift x5 times
+    Right Shift (8s)                        Turn Filter Keys on and off
+    Left Alt + Left Shift + PrintScreen     Turn High Contrast on or off
+    Left Alt + Left Shift + Num Lock        Turn MouseKeys on or off
+    Num  Lock (5s)                          Turn Toggle Keys on or off
+    Windows + U                             Open utility manager
+
+    F1                                      Help dialog
+    Ctrl+P                                  Print dialog
+
+= Citrix Hotkeys =
+
+    SHIFT+F1 = Local Task List (Server side)
+    SHIFT+F2 = Toggle Title Bar
+    SHIFT+F3 = Close Remote Application
+    CTRL+F1 = Displays Windows Security Desktop – Ctrl+Alt+Del
+    CTRL+F2 = Remote Task List
+    CTRL+F3 = Remote Task Manager –Ctrl+Shift+ESC
+    ALT+F2 = Cycle through programs
+    ALT+PLUS = Alt+TAB
+    ALT+MINUS = ALT+SHIFT+TAB
+
+    *This keys are configured in the file APPSRV.INI
+
+= I.E Shortcuts =
+
+    Ctrl + h = View History
+    Ctrl +i = View Favorites
+    Ctrl + t = New Tab (I.E 7)
+    Ctrl + n = New Window
+    Ctrl + o = Internet Address (browse feature)
+    Ctrl + n = New Browser
+    Ctrl + p = Print (to file)
+    Right Click (Shift + F10)
+    Save Image As
+    View Source
+
+=====
+Sources:
+http://synjunkie.blogspot.com.es/
+http://travisaltman.com/windows-privilege-escalation-via-weak-service-permissions/
+https://blog.netspi.com/windows-privilege-escalation-part-1-local-administrator-privileges/
+https://blog.netspi.com/breaking-out-of-applications-deployed-via-terminal-services-citrix-and-kiosks/
+http://synjunkie.blogspot.com.es/2009/03/abusing-citrix-part-4.html
+http://www.pentestpartners.com/blog/breaking-out-of-citrix-and-other-restricted-desktop-environments/
+http://windows.microsoft.com/en-us/windows-xp/help/keyboard-shortcuts

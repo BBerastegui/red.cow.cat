@@ -1,0 +1,8 @@
+= AD queries =
+
+/!\ If you have a cmd, you may be start with this:
+    rundll32.exe dsquery,OpenQueryWindow
+
+
+
+

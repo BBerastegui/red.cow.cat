@@ -1,0 +1,7 @@
+= RASCI =
+
+A (Accountable) - Máximo responsable.
+R (Responsible) - Ejecutor.
+C (Consulted) - Consultado si necesario (Una tarea que pueda impactar en otro área). No responsabilidad. Identificar dependencias, por si afecta a otros.
+S (Supportive) - Apoyo bajo demanda, no responsable.
+I (Informative) - Sólo informado.

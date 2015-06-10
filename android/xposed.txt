@@ -1,0 +1,21 @@
+//String classToHook = new String();
+//String methodToHook = new String();
+
+public class Tutorial implements IXposedHookLoadPackage {
+	public void handleLoadPackage(LoadPackageParam lpparam) throws Throwable {	
+		if (!lpparam.packageName.equals([PACKAGE TO HOOK]))
+	        return;
+	XposedBridge.log("WE ARE IN [PACKAGE TO HOOK] !");
+
+findAndHookMethod([CLASS TO HOOK], lpparam.classLoader, [METHOD TO HOOK], new XC_MethodHook() {
+	// This will be executed before the method.
+	protected void beforeHookedMethod(MethodHookParam param) throws Throwable {
+	XposedBridge.log("[DEBUG] Before [METHOD TO HOOK] method.");
+	}
+	// This will be executed after the method.
+	protected void afterHookedMethod(MethodHookParam param) throws Throwable {
+	XposedBridge.log("[DEBUG] After [METHOD TO HOOK] method.");
+	// Get return parameters of the function.
+	XposedBridge.log("[DEBUG] Return parameters of [METHOD TO HOOK]: "+param.getResult());
+	}
+});

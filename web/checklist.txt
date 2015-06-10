@@ -1,0 +1,47 @@
+= Information gathering =
+
+== Software / Frameworks / ... ==
+Web server, frameworks, CMS... && version
+    - Headers
+    - Application errors
+    -
+ 
+== SSL ==
+Certificate validity
+    - Expiration
+    - Trusted CA (and chain)
+    - Weak signatures
+Cipher strength
+Cipher suites supported
+Vulnerabilities
+    - Poodle
+    - HeartBleed
+    - Freak
+    - ...
+
+== Other ==
+Detect WAFs (Ex.: Wafwoof)
+
+= Enumeration / Active discovery =
+Bruteforce (dirgo, dirb)
+
+= Testing =
+
+== Session ==
+Session fixation
+Forced browsing
+Concurrent logins
+CSRF
+Cookies:
+    - Secure
+    - HttpOnly
+    - Path
+    - Domain
+    - Expires
+
+== Autorization ==
+Perform privileged actions within an unprivileged session
+
+
+
+

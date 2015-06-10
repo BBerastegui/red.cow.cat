@@ -1,0 +1,90 @@
+[!] Disclaimer: This is not made by me. These are my personal anottations based on this Corelan tutorial: https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+It's mostly a copy/paste with several annotation and drawings about it.
+
+[RE - 101]
+
+The process memory contains 3 major components :
+- Code segment (Text segment in Linux): Instructions that the processor executes. (The EIP keeps track of the next instruction)
+- Data segment: Variables, dynamic buffers. Data refers to initialized global and static objects.
+- BSS segment: BSS refers to uninitialized global and static objects. The .bss section is guaranteed to be all zeros when the program is loaded into memory. So any global data that is uninitialized, or initialized to zero is placed in the .bss section. 
+- Stack segment: Used to pass data/arguments to functions, and is used as space for variables. The stack starts (= the bottom of the stack) from the very end of the virtual memory of a page and grows down (to a lower address). A PUSH adds something to the top of the stack, POP will remove one item (4 bytes) from the stack and puts it in a register.
+
+Example:
+                                           +--------------+                                  
+                                           +        +--------+                               
+                                        PUSH A1  PUSH A2  |  |          POP          +------+
+                                                          |  |                       |  A2  |
+0xFFFFFFFF  + +--------------+        + +--------------+  |  |  + +--------------+   +------+
+...         | |    STACK     |        | |      A1      | <+  |  | |      A1      |      ^    
+            | +--------------+        | +--------------+     |  v +--------------+      |    
+            v |              |        | |      A2      | <---+    |              +------+    
+              |              |        v +--------------+          |              |           
+              |              |          |              |          |              |           
+              |              |          |              |          |              |           
+              |              |          |              |          |              |           
+              |              |          |              |          |              |           
+            ^ +--------------+          +--------------+          +--------------+           
+            | |    BSS       |          |    BSS       |          |    BSS       |           
+            | +--------------+          +--------------+          +--------------+           
+            | |    DATA      |          |    DATA      |          |    DATA      |           
+            | +--------------+          +--------------+          +--------------+           
+            | |              +          |              +          |              +           
+            | +---------+[EIP]<---+     +---------+[EIP]<---+     +---------+[EIP]<---+      
+            | |              +          |              +          |              +           
+            | |  CODE/TEXT   |          |  CODE/TEXT   |          |  CODE/TEXT   |           
+0x00000000  + +--------------+          +--------------+          +--------------+           
+
+If you want to access the stack memory directly, you can use ESP (Stack Pointer), which points at the top (so the lowest memory address) of the stack.
+
+After a push, ESP will point to a lower memory address (address is decremented with the size of the data that is pushed onto the stack, which is 4 bytes in case of addresses/pointers).
+Decrements usually happen before the item is placed on the stack (depending on the implementation… if ESP already points at the next free location in the stack, the decrement happens after placing data on the stack)
+After a POP, ESP points to a higher address (address is incremented (by 4 bytes in case of addresses/pointers)). Increments happen after an item is removed from the stack.
+
+Example:
+                                              +-----------+                                  
+                                           PUSH A2        |          POP                     
+                                                          |                                  
+0xFFFFFFFF + +--------------+       + +--------------+    |  + +--------------+              
+...        | |      A1      |       | |      A1      |    |  | |      A1      |              
+           | +---------+[ESP]<---+  | +--------------+    |  | +---------+[ESP]<---+         
+           v |              |       v |      A2      | <--+  v |              |              
+             |              |         +---------+[ESP]<---+    |              |              
+             |              |         |              |         |              |              
+             |              |         |              |         |              |              
+             |              |         |              |         |              |              
+             |              |         |              |         |              |              
+           ^ +--------------+       ^ +--------------+       ^ +--------------+              
+           | |    BSS       |       | |    BSS       |       | |    BSS       |              
+           | +--------------+       | +--------------+       | +--------------+              
+           | |    DATA      |       | |    DATA      |       | |    DATA      |              
+           | +--------------+       | +--------------+       | +--------------+              
+           | |              +       | |              +       | |              +              
+           | +---------+[EIP]<---+  | +---------+[EIP]<---+  | +---------+[EIP]<---+         
+           | |              +       | |              +       | |              +              
+           | |  CODE/TEXT   |       | |  CODE/TEXT   |       | |  CODE/TEXT   |              
+0x00000000 + +--------------+       + +--------------+       + +--------------+              
+
+When a function/subroutine is entered, a stack frame [*] is created.
+    [*] The function return address is pushed onto the stack first, then the arguments and space for local variables. Together, they make the "stack frame".
+
+This frame keeps the parameters of the parent procedure together and is used to pass arguments to the subrouting.  The current location of the stack can be accessed via the stack pointer (ESP), the current base of the function is contained in the base pointer (EBP) (or frame pointer).
+
+Example:
+
+    [TODO]
+
+The CPU’s general purpose registers (Intel, x86) are :
+
+- EAX : accumulator : used for performing calculations, and used to store return values from function calls. Basic operations such as add, subtract, compare use this general-purpose register
+- EBX : base (does not have anything to do with base pointer). It has no general purpose and can be used to store data.
+- ECX : counter : used for iterations. ECX counts downward.
+- EDX : data : this is an extension of the EAX register. It allows for more complex calculations (multiply, divide) by allowing extra data to be stored to facilitate those calculations.
+- ESP : stack pointer
+- EBP : base pointer
+- ESI : source index : holds location of input data
+- EDI : destination index  : points to location of where result of data operation is stored
+- EIP : instruction pointer
+
+
+
+

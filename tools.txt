@@ -1,0 +1,78 @@
+= Tools list = (Credits to ka0labs blog.ka0labs.net)
+
+= Reversing =
+- IDA Pro
+- gdb/PEDA
+- Radare2
+- Quira
+- Hopper
+- XXD
+- pyGDB
+- Olly
+- Ollydump (Olly plugin)
+
+    == Android ==
+    - jadx
+    - Apkstudio
+    - AndroGuard + plugins
+    - Xposed Framework
+
+    == iOS ==
+    - Cycript
+    - gdb
+    - Clutch
+    - [$] Flex
+
+= Stegano =
+- DTMF (http://dialabc.com/sound/detect/)
+- Audacity
+- GIMP
+- Outguess 
+- Steghide
+- PNGCheck
+- Stegsolve
+- Zsteg
+- StegDetect
+- Baudline
+
+= Web =
+- SQLMap
+- Live HTTP Headers // Add-on para firefox
+- Burp Suite
+- Nikto
+- DirBuster
+- IIS ShortName Scanner // https://github.com/irsdl/iis-shortname-scanner/ 
+- mysqlUDF (https://github.com/mysqludf/lib_mysqludf_sys)
+
+= Network =
+- Wireshark
+- tcpdump
+- NetWorkMiner
+
+= Crypto =
+- HashPump
+- John The Ripper
+- HashCat
+- Trucrack
+- SIPCrack
+- Hash Algorithm Identifier ( https://github.com/AnimeshShaw/Hash-Algorithm-Identifier )
+- Aircrack
+- Cryptool
+- http://rumkin.com/tools/
+
+= Dictionaries =
+- www.skullsecurity.org
+- red.cow.cat/dicts
+
+= Forensics =
+- BinWalk
+- Autopsy
+- Volatility
+- Peepdf
+- Foremost
+- Scalpel
+
+= Exploiting =
+- ROPGadget
+- Inmunity + Mona.py
+- CheckSec
