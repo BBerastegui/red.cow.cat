@@ -1,0 +1,10 @@
+M1: Weak Server Side Controls
+M2: Insecure Data Storage
+M3: Insufficient Transport Layer Protection
+M4: Unintended Data Leakage
+M5: Poor Authorization and Authentication
+M6: Broken Cryptography
+M7: Client Side Injection
+M8: Security Decisions Via Untrusted Inputs
+M9: Improper Session Handling
+M10: Lack of Binary Protections
