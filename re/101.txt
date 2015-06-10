@@ -85,6 +85,6 @@ The CPU’s general purpose registers (Intel, x86) are :
 - EDI : destination index  : points to location of where result of data operation is stored
 - EIP : instruction pointer
 
-
+...
 
 
