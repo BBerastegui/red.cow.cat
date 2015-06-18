@@ -1,0 +1,14 @@
+applicationContext.xml
+classes
+hibernate.cfg.xml
+hibernateContext.xml
+jsp
+lib
+migration.properties
+spring-security.xml
+spring-servlet.xml
+web.xml
+META-INF
+WEB-INF
+j_spring_security_check
+
