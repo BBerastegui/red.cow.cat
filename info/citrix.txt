@@ -19,6 +19,10 @@ WMIC.exe
 Qwinsta.exe – Displays information about RDP sessions
 Tasklist.exe / qprocess.exe – List process information
 
+== Control panel shortcuts ==
+
+control userpasswords2
+
 == RUNDLL32.exe ==
 
 Stored Usernames and Passwords: RunDll32.exe keymgr.dll,KRShowKeyMgr
