@@ -102,7 +102,7 @@
 .dump,application/octet-stream
 .dv,video/x-dv
 .dvi,application/x-dvi
-.dwf,drawing/x-dwf,(old)
+.dwf,drawing/x-dwf
 .dwf,model/vnd.dwf
 .dwg,application/acad
 .dwg,image/vnd.dwg
@@ -112,7 +112,7 @@
 .dxf,image/x-dwg
 .dxr,application/x-director
 .el,text/x-script.elisp
-.elc,application/x-bytecode.elisp,(compiled,elisp)
+.elc,application/x-bytecode.elisp
 .elc,application/x-elc
 .env,application/x-envoy
 .eps,application/postscript
