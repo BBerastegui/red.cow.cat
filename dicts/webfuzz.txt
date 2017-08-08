@@ -28,7 +28,6 @@
 ">xxx<P>yyy
 "\t"
 #
-# known cross platform source Code, file disclosure attack patterns - append after file or dir path
 #&apos;
 #'
 #xA
