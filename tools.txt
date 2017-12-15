@@ -23,7 +23,7 @@
     - Clutch
     - [$] Flex
 
-= Stegano =
+= Stego =
 - DTMF (http://dialabc.com/sound/detect/)
 - Audacity
 - GIMP
@@ -34,6 +34,7 @@
 - Zsteg
 - StegDetect
 - Baudline
+- Uniview (Unicode visualizer) https://github.com/r12a/uniview
 
 = Web =
 - SQLMap
