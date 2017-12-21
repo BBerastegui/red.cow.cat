@@ -1,7 +1,3 @@
-        from [http://info-uri.info/]."
-        of public namespaces
-      [RFC4452] (section 3) defines an ""info"" registry 
-URI Scheme
 aaa
 aaas
 about
