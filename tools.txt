@@ -59,6 +59,8 @@
 - Hash Algorithm Identifier ( https://github.com/AnimeshShaw/Hash-Algorithm-Identifier )
 - Aircrack
 - Cryptool
+- Auto analysis of ciphertext - https://quipqiup.com/
+
 - http://rumkin.com/tools/
 
 = Dictionaries =
