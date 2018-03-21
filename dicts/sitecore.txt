@@ -1,0 +1,1176 @@
+404.aspx
+Copyrights
+Copyrights/Apache-License-2.0.txt
+Copyrights/NOTICE.txt
+Copyrights/index.html
+Copyrights/json.net
+admin
+admin/CompareSubtrees.aspx
+admin/DumpIndex.aspx
+admin/Reflect.aspx
+admin/ShowConfig.aspx
+admin/SizeStatus.aspx
+admin/SizeTester.aspx
+admin/UnitTestLogin.aspx
+admin/cache.aspx
+admin/dbbrowser.aspx
+admin/dbbrowser.css
+admin/index.html
+admin/login.aspx
+admin/restore.aspx
+admin/serialization.aspx
+admin/stats.aspx
+admin/unlock_admin.aspx
+blocked.aspx
+debug
+debug/index.html
+default.aspx
+images
+images/blank.gif
+images/index.html
+index.html
+login
+login/advanced.ascx
+login/basic.ascx
+login/changepassword.aspx
+login/contenteditor.png
+login/default.aspx
+login/default.css
+login/default.js
+login/default_express.css
+login/express.css
+login/go.gif
+login/index.html
+login/login.aspx
+login/login.png
+login/logo.png
+login/maximize.aspx
+login/menudivider.png
+login/passwordrecovery.aspx
+login/scxLogo.gif
+login/startpage.jpg
+login/webedit.png
+no.css
+portal
+portal/IDE
+portal/IDE/BodyTop.gif
+portal/IDE/IDE.css
+portal/IDE/index.html
+portal/Tech
+portal/Tech/Tech.css
+portal/Tech/cap_l.gif
+portal/Tech/cap_m.gif
+portal/Tech/cap_r.gif
+portal/Tech/go_s.gif
+portal/Tech/head.gif
+portal/Tech/index.html
+portal/Tech/menu.gif
+portal/Tech/menu_h.gif
+portal/index.html
+rest.aspx
+samples
+samples/Quick Action Bar
+samples/Quick Action Bar/index.html
+samples/index.html
+service
+service/error.aspx
+service/index.html
+service/keepalive.aspx
+service/noaccess.aspx
+service/nolayout.aspx
+service/nolicense.aspx
+service/notfound.aspx
+shell
+shell/Abandon.aspx
+shell/Applications
+shell/Applications/Archives
+shell/Applications/Archives/RecycleBin
+shell/Applications/Archives/RecycleBin/RecycleBin.xaml.xml
+shell/Applications/Archives/RecycleBin/index.html
+shell/Applications/Archives/index.html
+shell/Applications/Carousel
+shell/Applications/Carousel/Carousel.xml
+shell/Applications/Carousel/index.html
+shell/Applications/ClientUsesOSWindows.aspx
+shell/Applications/Content Manager
+shell/Applications/Content Manager/Commands
+shell/Applications/Content Manager/Commands/index.html
+shell/Applications/Content Manager/Content Editor.js
+shell/Applications/Content Manager/Default.aspx
+shell/Applications/Content Manager/Dialogs
+shell/Applications/Content Manager/Dialogs/Aliases
+shell/Applications/Content Manager/Dialogs/Aliases/Aliases.xml
+shell/Applications/Content Manager/Dialogs/Aliases/index.html
+shell/Applications/Content Manager/Dialogs/EditHtml
+shell/Applications/Content Manager/Dialogs/EditHtml/Commands
+shell/Applications/Content Manager/Dialogs/EditHtml/Commands/index.html
+shell/Applications/Content Manager/Dialogs/EditHtml/EditHtml.xaml.xml
+shell/Applications/Content Manager/Dialogs/EditHtml/ValidateXHtml.xaml.xml
+shell/Applications/Content Manager/Dialogs/EditHtml/index.html
+shell/Applications/Content Manager/Dialogs/FixHtml
+shell/Applications/Content Manager/Dialogs/FixHtml/FixHtml.xaml.xml
+shell/Applications/Content Manager/Dialogs/FixHtml/index.html
+shell/Applications/Content Manager/Dialogs/LayoutDetails
+shell/Applications/Content Manager/Dialogs/LayoutDetails/LayoutDetails.xml
+shell/Applications/Content Manager/Dialogs/LayoutDetails/index.html
+shell/Applications/Content Manager/Dialogs/Properties
+shell/Applications/Content Manager/Dialogs/Properties/Properties.css
+shell/Applications/Content Manager/Dialogs/Properties/Properties.xml
+shell/Applications/Content Manager/Dialogs/Properties/SystemMenu Archive.xml
+shell/Applications/Content Manager/Dialogs/Properties/SystemMenu Information.xml
+shell/Applications/Content Manager/Dialogs/Properties/SystemMenu Reminder.xml
+shell/Applications/Content Manager/Dialogs/Properties/SystemMenu Statistics.xml
+shell/Applications/Content Manager/Dialogs/Properties/SystemMenu Workflow.xml
+shell/Applications/Content Manager/Dialogs/Properties/index.html
+shell/Applications/Content Manager/Dialogs/ResetFields
+shell/Applications/Content Manager/Dialogs/ResetFields/ResetFields.xml
+shell/Applications/Content Manager/Dialogs/ResetFields/index.html
+shell/Applications/Content Manager/Dialogs/Set Help
+shell/Applications/Content Manager/Dialogs/Set Help/Set Help.xml
+shell/Applications/Content Manager/Dialogs/Set Help/index.html
+shell/Applications/Content Manager/Dialogs/Set Icon
+shell/Applications/Content Manager/Dialogs/Set Icon/Set Icon.xml
+shell/Applications/Content Manager/Dialogs/Set Icon/SetIcon.js
+shell/Applications/Content Manager/Dialogs/Set Icon/index.html
+shell/Applications/Content Manager/Dialogs/Set Publishing
+shell/Applications/Content Manager/Dialogs/Set Publishing/Set Publishing.xml
+shell/Applications/Content Manager/Dialogs/Set Publishing/index.html
+shell/Applications/Content Manager/Dialogs/Set Subitems Sorting
+shell/Applications/Content Manager/Dialogs/Set Subitems Sorting/Set Subitems Sorting.xml
+shell/Applications/Content Manager/Dialogs/Set Subitems Sorting/index.html
+shell/Applications/Content Manager/Dialogs/Set Tree Node Style
+shell/Applications/Content Manager/Dialogs/Set Tree Node Style/Set Tree Node Style.xml
+shell/Applications/Content Manager/Dialogs/Set Tree Node Style/index.html
+shell/Applications/Content Manager/Dialogs/SetMasters
+shell/Applications/Content Manager/Dialogs/SetMasters/SetMasters.js
+shell/Applications/Content Manager/Dialogs/SetMasters/SetMasters.xml
+shell/Applications/Content Manager/Dialogs/SetMasters/index.html
+shell/Applications/Content Manager/Dialogs/TreeListExEditor
+shell/Applications/Content Manager/Dialogs/TreeListExEditor/TreeListExEditor.js
+shell/Applications/Content Manager/Dialogs/TreeListExEditor/TreeListExEditor.xml
+shell/Applications/Content Manager/Dialogs/TreeListExEditor/index.html
+shell/Applications/Content Manager/Dialogs/ValidationResult
+shell/Applications/Content Manager/Dialogs/ValidationResult/ValidationResult.xaml.xml
+shell/Applications/Content Manager/Dialogs/ValidationResult/index.html
+shell/Applications/Content Manager/Dialogs/index.html
+shell/Applications/Content Manager/Editors
+shell/Applications/Content Manager/Editors/Folder
+shell/Applications/Content Manager/Editors/Folder/Folder.xaml.xml
+shell/Applications/Content Manager/Editors/Folder/index.html
+shell/Applications/Content Manager/Editors/Preview
+shell/Applications/Content Manager/Editors/Preview/Preview.css
+shell/Applications/Content Manager/Editors/Preview/Preview.js
+shell/Applications/Content Manager/Editors/Preview/Preview.xaml.xml
+shell/Applications/Content Manager/Editors/Preview/index.html
+shell/Applications/Content Manager/Editors/index.html
+shell/Applications/Content Manager/Execute.aspx
+shell/Applications/Content Manager/FieldTypes
+shell/Applications/Content Manager/FieldTypes/index.html
+shell/Applications/Content Manager/Galleries
+shell/Applications/Content Manager/Galleries/Access Viewer
+shell/Applications/Content Manager/Galleries/Access Viewer/Gallery Access Viewer.xml
+shell/Applications/Content Manager/Galleries/Access Viewer/index.html
+shell/Applications/Content Manager/Galleries/Archives
+shell/Applications/Content Manager/Galleries/Archives/Gallery Archive.xml
+shell/Applications/Content Manager/Galleries/Archives/index.html
+shell/Applications/Content Manager/Galleries/Domains
+shell/Applications/Content Manager/Galleries/Domains/GalleryDomains.xml
+shell/Applications/Content Manager/Galleries/Domains/index.html
+shell/Applications/Content Manager/Galleries/Favorites
+shell/Applications/Content Manager/Galleries/Favorites/Gallery Favorites.xml
+shell/Applications/Content Manager/Galleries/Favorites/index.html
+shell/Applications/Content Manager/Galleries/Find
+shell/Applications/Content Manager/Galleries/Find/Gallery Find.js
+shell/Applications/Content Manager/Galleries/Find/Gallery Find.xml
+shell/Applications/Content Manager/Galleries/Find/index.html
+shell/Applications/Content Manager/Galleries/Gallery Grip.xml
+shell/Applications/Content Manager/Galleries/Gallery Option.xml
+shell/Applications/Content Manager/Galleries/Gallery.css
+shell/Applications/Content Manager/Galleries/Gallery.js
+shell/Applications/Content Manager/Galleries/Gallery.xml
+shell/Applications/Content Manager/Galleries/Icons
+shell/Applications/Content Manager/Galleries/Icons/Gallery Icons.xml
+shell/Applications/Content Manager/Galleries/Icons/index.html
+shell/Applications/Content Manager/Galleries/Languages
+shell/Applications/Content Manager/Galleries/Languages/Gallery Languages.Option.xml
+shell/Applications/Content Manager/Galleries/Languages/Gallery Languages.xml
+shell/Applications/Content Manager/Galleries/Languages/index.html
+shell/Applications/Content Manager/Galleries/Layout
+shell/Applications/Content Manager/Galleries/Layout/Gallery Layout.xml
+shell/Applications/Content Manager/Galleries/Layout/index.html
+shell/Applications/Content Manager/Galleries/LayoutPresets
+shell/Applications/Content Manager/Galleries/LayoutPresets/GalleryLayoutPresets.xml
+shell/Applications/Content Manager/Galleries/LayoutPresets/index.html
+shell/Applications/Content Manager/Galleries/Links
+shell/Applications/Content Manager/Galleries/Links/Gallery Links.css
+shell/Applications/Content Manager/Galleries/Links/Gallery Links.xml
+shell/Applications/Content Manager/Galleries/Links/index.html
+shell/Applications/Content Manager/Galleries/Menus
+shell/Applications/Content Manager/Galleries/Menus/Gallery Menu.xml
+shell/Applications/Content Manager/Galleries/Menus/index.html
+shell/Applications/Content Manager/Galleries/New
+shell/Applications/Content Manager/Galleries/New/Gallery New.Option.xml
+shell/Applications/Content Manager/Galleries/New/Gallery New.xml
+shell/Applications/Content Manager/Galleries/New/index.html
+shell/Applications/Content Manager/Galleries/Open
+shell/Applications/Content Manager/Galleries/Open/Gallery Open.xml
+shell/Applications/Content Manager/Galleries/Open/index.html
+shell/Applications/Content Manager/Galleries/Reminders
+shell/Applications/Content Manager/Galleries/Reminders/Gallery Reminder.xml
+shell/Applications/Content Manager/Galleries/Reminders/index.html
+shell/Applications/Content Manager/Galleries/Security
+shell/Applications/Content Manager/Galleries/Security Presets
+shell/Applications/Content Manager/Galleries/Security Presets/Gallery Security Presets.xml
+shell/Applications/Content Manager/Galleries/Security Presets/index.html
+shell/Applications/Content Manager/Galleries/Security/Gallery Security.xml
+shell/Applications/Content Manager/Galleries/Security/index.html
+shell/Applications/Content Manager/Galleries/Subitems
+shell/Applications/Content Manager/Galleries/Subitems/Gallery Subitems.xml
+shell/Applications/Content Manager/Galleries/Subitems/index.html
+shell/Applications/Content Manager/Galleries/Users
+shell/Applications/Content Manager/Galleries/Users/GalleryUsers.xml
+shell/Applications/Content Manager/Galleries/Users/index.html
+shell/Applications/Content Manager/Galleries/Versions
+shell/Applications/Content Manager/Galleries/Versions/Gallery Versions.Option.xml
+shell/Applications/Content Manager/Galleries/Versions/Gallery Versions.xml
+shell/Applications/Content Manager/Galleries/Versions/index.html
+shell/Applications/Content Manager/Galleries/WorkflowEdit
+shell/Applications/Content Manager/Galleries/WorkflowEdit/GalleryWorkflowEdit.xml
+shell/Applications/Content Manager/Galleries/WorkflowEdit/index.html
+shell/Applications/Content Manager/Galleries/index.html
+shell/Applications/Content Manager/Panels
+shell/Applications/Content Manager/Panels/index.html
+shell/Applications/Content Manager/Pipelines
+shell/Applications/Content Manager/Pipelines/GetContentEditorFields
+shell/Applications/Content Manager/Pipelines/GetContentEditorFields/index.html
+shell/Applications/Content Manager/Pipelines/GetContentEditorSkin
+shell/Applications/Content Manager/Pipelines/GetContentEditorSkin/index.html
+shell/Applications/Content Manager/Pipelines/RenderContentEditor
+shell/Applications/Content Manager/Pipelines/RenderContentEditor/index.html
+shell/Applications/Content Manager/Pipelines/index.html
+shell/Applications/Content Manager/RichText
+shell/Applications/Content Manager/RichText/Rich Text Editor.xml
+shell/Applications/Content Manager/RichText/index.html
+shell/Applications/Content Manager/Sidebars
+shell/Applications/Content Manager/Sidebars/index.html
+shell/Applications/Content Manager/Skins
+shell/Applications/Content Manager/Skins/Default.skin.xml
+shell/Applications/Content Manager/Skins/Tabular.skin.xml
+shell/Applications/Content Manager/Skins/index.html
+shell/Applications/Content Manager/Validator.aspx
+shell/Applications/Content Manager/index.html
+shell/Applications/ContentNavigator
+shell/Applications/ContentNavigator/ContentNavigator.css
+shell/Applications/ContentNavigator/ContentNavigator.js
+shell/Applications/ContentNavigator/ContentNavigator.xaml.xml
+shell/Applications/ContentNavigator/Tile.js
+shell/Applications/ContentNavigator/index.html
+shell/Applications/ControlPanel
+shell/Applications/ControlPanel/ControlPanel
+shell/Applications/ControlPanel/ControlPanel/ControlPanel.xml
+shell/Applications/ControlPanel/ControlPanel/index.html
+shell/Applications/ControlPanel/Preferences
+shell/Applications/ControlPanel/Preferences/RegionalSettings
+shell/Applications/ControlPanel/Preferences/RegionalSettings/RegionalSettings.xml
+shell/Applications/ControlPanel/Preferences/RegionalSettings/index.html
+shell/Applications/ControlPanel/Preferences/UserInformation
+shell/Applications/ControlPanel/Preferences/UserInformation/UserInformation.xml
+shell/Applications/ControlPanel/Preferences/UserInformation/index.html
+shell/Applications/ControlPanel/Preferences/UserOptions
+shell/Applications/ControlPanel/Preferences/UserOptions/UserOptions.xml
+shell/Applications/ControlPanel/Preferences/UserOptions/index.html
+shell/Applications/ControlPanel/Preferences/Wallpaper
+shell/Applications/ControlPanel/Preferences/Wallpaper/Wallpaper.xml
+shell/Applications/ControlPanel/Preferences/Wallpaper/index.html
+shell/Applications/ControlPanel/Preferences/index.html
+shell/Applications/ControlPanel/index.html
+shell/Applications/Databases
+shell/Applications/Databases/CleanUp
+shell/Applications/Databases/CleanUp/CleanUp.xml
+shell/Applications/Databases/CleanUp/index.html
+shell/Applications/Databases/DatabaseUsage
+shell/Applications/Databases/DatabaseUsage/DatabaseUsage.xml
+shell/Applications/Databases/DatabaseUsage/index.html
+shell/Applications/Databases/index.html
+shell/Applications/Debugger
+shell/Applications/Debugger/Debugger page.xml
+shell/Applications/Debugger/Debugger viewer.xml
+shell/Applications/Debugger/Debugger.xml
+shell/Applications/Debugger/Portlets
+shell/Applications/Debugger/Portlets/Debugger Debugging
+shell/Applications/Debugger/Portlets/Debugger Debugging/Debugger Debugging Portlet.xml
+shell/Applications/Debugger/Portlets/Debugger Debugging/index.html
+shell/Applications/Debugger/Portlets/Debugger Profiling
+shell/Applications/Debugger/Portlets/Debugger Profiling/Debugger Profiling Portlet.xml
+shell/Applications/Debugger/Portlets/Debugger Profiling/index.html
+shell/Applications/Debugger/Portlets/Debugger Tracing
+shell/Applications/Debugger/Portlets/Debugger Tracing/Debugger Tracing Portlet.xml
+shell/Applications/Debugger/Portlets/Debugger Tracing/index.html
+shell/Applications/Debugger/Portlets/index.html
+shell/Applications/Debugger/RenderingInfo
+shell/Applications/Debugger/RenderingInfo/Rendering Info Not Found.xml
+shell/Applications/Debugger/RenderingInfo/Rendering Info.xml
+shell/Applications/Debugger/RenderingInfo/index.html
+shell/Applications/Debugger/counter.xslt
+shell/Applications/Debugger/index.html
+shell/Applications/DucatShell.xml
+shell/Applications/ExternalApplication.xml
+shell/Applications/Files
+shell/Applications/Files/FileBrowser
+shell/Applications/Files/FileBrowser/FileBrowser.xml
+shell/Applications/Files/FileBrowser/index.html
+shell/Applications/Files/FileExplorer
+shell/Applications/Files/FileExplorer/FileExplorer.xml
+shell/Applications/Files/FileExplorer/index.html
+shell/Applications/Files/FileLister
+shell/Applications/Files/FileLister/FileLister.xml
+shell/Applications/Files/FileLister/index.html
+shell/Applications/Files/index.html
+shell/Applications/FlashUpload
+shell/Applications/FlashUpload/Advanced
+shell/Applications/FlashUpload/Advanced/AdvancedUpload.css
+shell/Applications/FlashUpload/Advanced/AdvancedUpload.js
+shell/Applications/FlashUpload/Advanced/AdvancedUpload.xaml.xml
+shell/Applications/FlashUpload/Advanced/UploadTarget.aspx
+shell/Applications/FlashUpload/Advanced/index.html
+shell/Applications/FlashUpload/Attach
+shell/Applications/FlashUpload/Attach/Attach.js
+shell/Applications/FlashUpload/Attach/Attach.xaml.xml
+shell/Applications/FlashUpload/Attach/AttachTarget.aspx
+shell/Applications/FlashUpload/Attach/index.html
+shell/Applications/FlashUpload/Simple
+shell/Applications/FlashUpload/Simple/SimpleUpload.js
+shell/Applications/FlashUpload/Simple/SimpleUpload.xaml.xml
+shell/Applications/FlashUpload/Simple/index.html
+shell/Applications/FlashUpload/index.html
+shell/Applications/Floatie
+shell/Applications/Floatie/Floatie.js
+shell/Applications/Floatie/default.aspx
+shell/Applications/Floatie/index.html
+shell/Applications/Globalization
+shell/Applications/Globalization/AddLanguage
+shell/Applications/Globalization/AddLanguage/AddLanguage.xml
+shell/Applications/Globalization/AddLanguage/index.html
+shell/Applications/Globalization/DeleteLanguage
+shell/Applications/Globalization/DeleteLanguage/DeleteLanguage.xml
+shell/Applications/Globalization/DeleteLanguage/index.html
+shell/Applications/Globalization/ExportLanguage
+shell/Applications/Globalization/ExportLanguage/ExportLanguage.xml
+shell/Applications/Globalization/ExportLanguage/index.html
+shell/Applications/Globalization/ImportLanguage
+shell/Applications/Globalization/ImportLanguage/ImportLanguage.xml
+shell/Applications/Globalization/ImportLanguage/index.html
+shell/Applications/Globalization/SelectLanguage
+shell/Applications/Globalization/SelectLanguage/SelectLanguage.xaml.xml
+shell/Applications/Globalization/SelectLanguage/index.html
+shell/Applications/Globalization/SitecoreClientTranslation
+shell/Applications/Globalization/SitecoreClientTranslation/SitecoreClientTranslation.aspx
+shell/Applications/Globalization/SitecoreClientTranslation/index.html
+shell/Applications/Globalization/UntranslatedFields
+shell/Applications/Globalization/UntranslatedFields/UntranslatedFields.xml
+shell/Applications/Globalization/UntranslatedFields/UntranslatedFieldsViewer.xml
+shell/Applications/Globalization/UntranslatedFields/UntranslatedFieldsViewerItem.xml
+shell/Applications/Globalization/UntranslatedFields/index.html
+shell/Applications/Globalization/WorldLingo
+shell/Applications/Globalization/WorldLingo/WorldLingo.xml
+shell/Applications/Globalization/WorldLingo/index.html
+shell/Applications/Globalization/index.html
+shell/Applications/Install
+shell/Applications/Install/Commands
+shell/Applications/Install/Commands/index.html
+shell/Applications/Install/Controls
+shell/Applications/Install/Controls/BehaviourOptionEditor.xml
+shell/Applications/Install/Controls/EditorHost.xml
+shell/Applications/Install/Controls/Filters
+shell/Applications/Install/Controls/Filters/FileDateFilterEditor.xml
+shell/Applications/Install/Controls/Filters/FileNameFilterEditor.xml
+shell/Applications/Install/Controls/Filters/FilesFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemDateFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemLanguageFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemNameFlterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemPublishFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemTemplateFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemUserFilterEditor.xml
+shell/Applications/Install/Controls/Filters/ItemsFilterEditor.xml
+shell/Applications/Install/Controls/Filters/index.html
+shell/Applications/Install/Controls/ListEditor.xml
+shell/Applications/Install/Controls/Metadata
+shell/Applications/Install/Controls/Metadata/MetadataEditor.xml
+shell/Applications/Install/Controls/Metadata/customattributeseditor.xml
+shell/Applications/Install/Controls/Metadata/index.html
+shell/Applications/Install/Controls/PackageViewer.xml
+shell/Applications/Install/Controls/ProjectEditor.xml
+shell/Applications/Install/Controls/ProjectView.xml
+shell/Applications/Install/Controls/SelectAccount.xml
+shell/Applications/Install/Controls/Source Editors
+shell/Applications/Install/Controls/Source Editors/ExplicitFileSourceEditor.xml
+shell/Applications/Install/Controls/Source Editors/ExplicitItemSourceEditor.xml
+shell/Applications/Install/Controls/Source Editors/ListSourceEditor.xml
+shell/Applications/Install/Controls/Source Editors/NameEditor.xml
+shell/Applications/Install/Controls/Source Editors/SecuritySourceEditor.xml
+shell/Applications/Install/Controls/Source Editors/filesourceeditor.xml
+shell/Applications/Install/Controls/Source Editors/filesourcerooteditor.xml
+shell/Applications/Install/Controls/Source Editors/index.html
+shell/Applications/Install/Controls/Source Editors/itemsourceeditor.xml
+shell/Applications/Install/Controls/Source Editors/itemsourcerooteditor.xml
+shell/Applications/Install/Controls/Source Editors/sourceoutputeditor.xml
+shell/Applications/Install/Controls/Source Editors/sourceviewer.xml
+shell/Applications/Install/Controls/Widgets
+shell/Applications/Install/Controls/Widgets/fieldset.xml
+shell/Applications/Install/Controls/Widgets/flatbutton.xml
+shell/Applications/Install/Controls/Widgets/index.html
+shell/Applications/Install/Controls/Widgets/sectionframe.xml
+shell/Applications/Install/Controls/Widgets/statusbar.xml
+shell/Applications/Install/Controls/Widgets/statusbarsection.xml
+shell/Applications/Install/Controls/Widgets/treeview.js
+shell/Applications/Install/Controls/index.html
+shell/Applications/Install/Designer.xml
+shell/Applications/Install/Dialogs
+shell/Applications/Install/Dialogs/BrowseDialog.xml
+shell/Applications/Install/Dialogs/Build package
+shell/Applications/Install/Dialogs/Build package/BuildPackage.xml
+shell/Applications/Install/Dialogs/Build package/index.html
+shell/Applications/Install/Dialogs/File Browser
+shell/Applications/Install/Dialogs/File Browser/File browser.xml
+shell/Applications/Install/Dialogs/File Browser/index.html
+shell/Applications/Install/Dialogs/Install package
+shell/Applications/Install/Dialogs/Install package/GetPasteMode.xml
+shell/Applications/Install/Dialogs/Install package/Install Package.xml
+shell/Applications/Install/Dialogs/Install package/index.html
+shell/Applications/Install/Dialogs/Project
+shell/Applications/Install/Dialogs/Project/OpenProject.xml
+shell/Applications/Install/Dialogs/Project/index.html
+shell/Applications/Install/Dialogs/Search
+shell/Applications/Install/Dialogs/Search/AddFileSource.xml
+shell/Applications/Install/Dialogs/Search/AddItemSource.xml
+shell/Applications/Install/Dialogs/Search/index.html
+shell/Applications/Install/Dialogs/Security
+shell/Applications/Install/Dialogs/Security/AddSecuritySourceDialog.xaml.xml
+shell/Applications/Install/Dialogs/Security/index.html
+shell/Applications/Install/Dialogs/Static
+shell/Applications/Install/Dialogs/Static/AddFilesDialog.xml
+shell/Applications/Install/Dialogs/Static/AddItemsDialog.xml
+shell/Applications/Install/Dialogs/Static/AddStaticFileSourceDialog.xml
+shell/Applications/Install/Dialogs/Static/AddStaticItemSourceDialog.xml
+shell/Applications/Install/Dialogs/Static/index.html
+shell/Applications/Install/Dialogs/Text Editor
+shell/Applications/Install/Dialogs/Text Editor/TextEditor.xml
+shell/Applications/Install/Dialogs/Text Editor/index.html
+shell/Applications/Install/Dialogs/Upload package
+shell/Applications/Install/Dialogs/Upload package/UploadPackage.aspx
+shell/Applications/Install/Dialogs/Upload package/UploadPackage.xml
+shell/Applications/Install/Dialogs/Upload package/UploadPackage2.aspx
+shell/Applications/Install/Dialogs/Upload package/index.html
+shell/Applications/Install/Dialogs/index.html
+shell/Applications/Install/Galleries
+shell/Applications/Install/Galleries/NewProject.xml
+shell/Applications/Install/Galleries/index.html
+shell/Applications/Install/Preview.xml
+shell/Applications/Install/Visualizers
+shell/Applications/Install/Visualizers/index.html
+shell/Applications/Install/index.html
+shell/Applications/Install/installer.css
+shell/Applications/Install/installer.js
+shell/Applications/ItemBrowser
+shell/Applications/ItemBrowser/ItemBrowser.xml
+shell/Applications/ItemBrowser/index.html
+shell/Applications/Layouts
+shell/Applications/Layouts/DeviceEditor
+shell/Applications/Layouts/DeviceEditor/CopyDeviceTo.xml
+shell/Applications/Layouts/DeviceEditor/DeviceEditor.xml
+shell/Applications/Layouts/DeviceEditor/DeviceRendering.xml
+shell/Applications/Layouts/DeviceEditor/LayoutFieldDevice.xml
+shell/Applications/Layouts/DeviceEditor/LayoutFieldDeviceReadOnly.xml
+shell/Applications/Layouts/DeviceEditor/LayoutFieldToolbutton.xml
+shell/Applications/Layouts/DeviceEditor/PlaceholderEditor.xml
+shell/Applications/Layouts/DeviceEditor/RenderingEditor.xml
+shell/Applications/Layouts/DeviceEditor/index.html
+shell/Applications/Layouts/Dialogs
+shell/Applications/Layouts/Dialogs/SelectControl
+shell/Applications/Layouts/Dialogs/SelectControl/SelectControl.xml
+shell/Applications/Layouts/Dialogs/SelectControl/index.html
+shell/Applications/Layouts/Dialogs/index.html
+shell/Applications/Layouts/GridDesigner
+shell/Applications/Layouts/GridDesigner/Commands
+shell/Applications/Layouts/GridDesigner/Commands/index.html
+shell/Applications/Layouts/GridDesigner/Dialogs
+shell/Applications/Layouts/GridDesigner/Dialogs/GridProperties
+shell/Applications/Layouts/GridDesigner/Dialogs/GridProperties/GridProperties.xml
+shell/Applications/Layouts/GridDesigner/Dialogs/GridProperties/index.html
+shell/Applications/Layouts/GridDesigner/Dialogs/index.html
+shell/Applications/Layouts/GridDesigner/Galleries
+shell/Applications/Layouts/GridDesigner/Galleries/Predefined
+shell/Applications/Layouts/GridDesigner/Galleries/Predefined/Predefined.xml
+shell/Applications/Layouts/GridDesigner/Galleries/Predefined/PredefinedOption.xml
+shell/Applications/Layouts/GridDesigner/Galleries/Predefined/index.html
+shell/Applications/Layouts/GridDesigner/Galleries/index.html
+shell/Applications/Layouts/GridDesigner/GridDesigner.css
+shell/Applications/Layouts/GridDesigner/GridDesigner.js
+shell/Applications/Layouts/GridDesigner/GridDesigner.xaml.xml
+shell/Applications/Layouts/GridDesigner/GridDesignerControl.xaml.xml
+shell/Applications/Layouts/GridDesigner/index.html
+shell/Applications/Layouts/HtmlViewer
+shell/Applications/Layouts/HtmlViewer/HtmlViewer.css
+shell/Applications/Layouts/HtmlViewer/HtmlViewer.js
+shell/Applications/Layouts/HtmlViewer/HtmlViewer.xaml.xml
+shell/Applications/Layouts/HtmlViewer/index.html
+shell/Applications/Layouts/IDE
+shell/Applications/Layouts/IDE/Dialogs
+shell/Applications/Layouts/IDE/Dialogs/New File
+shell/Applications/Layouts/IDE/Dialogs/New File/IDE New File.xml
+shell/Applications/Layouts/IDE/Dialogs/New File/index.html
+shell/Applications/Layouts/IDE/Dialogs/Rendering Properties
+shell/Applications/Layouts/IDE/Dialogs/Rendering Properties/IDE Rendering properties.xml
+shell/Applications/Layouts/IDE/Dialogs/Rendering Properties/index.html
+shell/Applications/Layouts/IDE/Dialogs/index.html
+shell/Applications/Layouts/IDE/Editors
+shell/Applications/Layouts/IDE/Editors/Content Editor
+shell/Applications/Layouts/IDE/Editors/Content Editor/IDE Content Editor.xml
+shell/Applications/Layouts/IDE/Editors/Content Editor/index.html
+shell/Applications/Layouts/IDE/Editors/HTML
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor Control.js
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor Control.xml
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor Controls Control.xml
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor Controls Placeholder.xml
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor Controls Rendering.xml
+shell/Applications/Layouts/IDE/Editors/HTML/IDE Html Editor.xml
+shell/Applications/Layouts/IDE/Editors/HTML/index.html
+shell/Applications/Layouts/IDE/Editors/Profiler
+shell/Applications/Layouts/IDE/Editors/Profiler/Counters.xslt
+shell/Applications/Layouts/IDE/Editors/Profiler/IDE Profiler.xml
+shell/Applications/Layouts/IDE/Editors/Profiler/index.html
+shell/Applications/Layouts/IDE/Editors/Startpage
+shell/Applications/Layouts/IDE/Editors/Startpage/IDE Startpage.xml
+shell/Applications/Layouts/IDE/Editors/Startpage/IDE.TaskOption.xml
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Common Tasks
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Common Tasks/IDE Common Tasks Portlet.xml
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Common Tasks/index.html
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Getting Started
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Getting Started/IDE Getting Started Portlet.xml
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Getting Started/index.html
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Recent Files
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Recent Files/IDE Recent Files Portlet.xml
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/Recent Files/index.html
+shell/Applications/Layouts/IDE/Editors/Startpage/Portlets/index.html
+shell/Applications/Layouts/IDE/Editors/Startpage/index.html
+shell/Applications/Layouts/IDE/Editors/Text
+shell/Applications/Layouts/IDE/Editors/Text/IDE Text.xml
+shell/Applications/Layouts/IDE/Editors/Text/index.html
+shell/Applications/Layouts/IDE/Editors/XPath Builder
+shell/Applications/Layouts/IDE/Editors/XPath Builder/IDE XPath Builder.xml
+shell/Applications/Layouts/IDE/Editors/XPath Builder/index.html
+shell/Applications/Layouts/IDE/Editors/Xslt
+shell/Applications/Layouts/IDE/Editors/Xslt/IDE Xslt Preview.aspx
+shell/Applications/Layouts/IDE/Editors/Xslt/IDE Xslt.xml
+shell/Applications/Layouts/IDE/Editors/Xslt/index.html
+shell/Applications/Layouts/IDE/Editors/index.html
+shell/Applications/Layouts/IDE/IDE.aspx
+shell/Applications/Layouts/IDE/IDE.css
+shell/Applications/Layouts/IDE/IDE.js
+shell/Applications/Layouts/IDE/IDE.xml
+shell/Applications/Layouts/IDE/IDEFullscreen.aspx
+shell/Applications/Layouts/IDE/Windows
+shell/Applications/Layouts/IDE/Windows/Content Explorer
+shell/Applications/Layouts/IDE/Windows/Content Explorer/IDE Content Explorer.xml
+shell/Applications/Layouts/IDE/Windows/Content Explorer/index.html
+shell/Applications/Layouts/IDE/Windows/Media Library
+shell/Applications/Layouts/IDE/Windows/Media Library/IDE Media Library.xml
+shell/Applications/Layouts/IDE/Windows/Media Library/index.html
+shell/Applications/Layouts/IDE/Windows/Solution Explorer
+shell/Applications/Layouts/IDE/Windows/Solution Explorer/IDE Solution Explorer.xml
+shell/Applications/Layouts/IDE/Windows/Solution Explorer/index.html
+shell/Applications/Layouts/IDE/Windows/Templates
+shell/Applications/Layouts/IDE/Windows/Templates/IDE Templates.xml
+shell/Applications/Layouts/IDE/Windows/Templates/index.html
+shell/Applications/Layouts/IDE/Windows/Toolbox
+shell/Applications/Layouts/IDE/Windows/Toolbox/IDE Toolbox Pane.xml
+shell/Applications/Layouts/IDE/Windows/Toolbox/IDE Toolbox.css
+shell/Applications/Layouts/IDE/Windows/Toolbox/IDE Toolbox.xml
+shell/Applications/Layouts/IDE/Windows/Toolbox/index.html
+shell/Applications/Layouts/IDE/Windows/index.html
+shell/Applications/Layouts/IDE/Wizards
+shell/Applications/Layouts/IDE/Wizards/New File Wizard
+shell/Applications/Layouts/IDE/Wizards/New File Wizard/IDE New File Wizard.xml
+shell/Applications/Layouts/IDE/Wizards/New File Wizard/index.html
+shell/Applications/Layouts/IDE/Wizards/New Method Rendering Wizard
+shell/Applications/Layouts/IDE/Wizards/New Method Rendering Wizard/IDE New Method Rendering Wizard.xml
+shell/Applications/Layouts/IDE/Wizards/New Method Rendering Wizard/index.html
+shell/Applications/Layouts/IDE/Wizards/New Url Rendering Wizard
+shell/Applications/Layouts/IDE/Wizards/New Url Rendering Wizard/IDE New Url Rendering Wizard.xml
+shell/Applications/Layouts/IDE/Wizards/New Url Rendering Wizard/index.html
+shell/Applications/Layouts/IDE/Wizards/New WebControl Wizard
+shell/Applications/Layouts/IDE/Wizards/New WebControl Wizard/IDE New WebControl Wizard.xml
+shell/Applications/Layouts/IDE/Wizards/New WebControl Wizard/index.html
+shell/Applications/Layouts/IDE/Wizards/index.html
+shell/Applications/Layouts/IDE/index.html
+shell/Applications/Layouts/Layout lister
+shell/Applications/Layouts/Layout lister/Layout lister.xml
+shell/Applications/Layouts/Layout lister/index.html
+shell/Applications/Layouts/Layouter
+shell/Applications/Layouts/Layouter/Dialogs
+shell/Applications/Layouts/Layouter/Dialogs/Rendering properties.xml
+shell/Applications/Layouts/Layouter/Dialogs/index.html
+shell/Applications/Layouts/Layouter/Layouter control.xml
+shell/Applications/Layouts/Layouter/Layouter.xml
+shell/Applications/Layouts/Layouter/LayouterControl.js
+shell/Applications/Layouts/Layouter/Viewers
+shell/Applications/Layouts/Layouter/Viewers/ASPX
+shell/Applications/Layouts/Layouter/Viewers/ASPX/Layouter ASPX.xml
+shell/Applications/Layouts/Layouter/Viewers/ASPX/index.html
+shell/Applications/Layouts/Layouter/Viewers/Image
+shell/Applications/Layouts/Layouter/Viewers/Image/Layouter image.xml
+shell/Applications/Layouts/Layouter/Viewers/Image/index.html
+shell/Applications/Layouts/Layouter/Viewers/Layout manager
+shell/Applications/Layouts/Layouter/Viewers/Layout manager/Layouter manager.xml
+shell/Applications/Layouts/Layouter/Viewers/Layout manager/index.html
+shell/Applications/Layouts/Layouter/Viewers/Rendering manager
+shell/Applications/Layouts/Layouter/Viewers/Rendering manager/Rendering manager.xml
+shell/Applications/Layouts/Layouter/Viewers/Rendering manager/index.html
+shell/Applications/Layouts/Layouter/Viewers/Text
+shell/Applications/Layouts/Layouter/Viewers/Text/Layouter Text.xml
+shell/Applications/Layouts/Layouter/Viewers/Text/index.html
+shell/Applications/Layouts/Layouter/Viewers/index.html
+shell/Applications/Layouts/Layouter/Wizards
+shell/Applications/Layouts/Layouter/Wizards/New XML layout
+shell/Applications/Layouts/Layouter/Wizards/New XML layout/New XML layout.xml
+shell/Applications/Layouts/Layouter/Wizards/New XML layout/index.html
+shell/Applications/Layouts/Layouter/Wizards/New XSL
+shell/Applications/Layouts/Layouter/Wizards/New XSL/New xsl.xml
+shell/Applications/Layouts/Layouter/Wizards/New XSL/index.html
+shell/Applications/Layouts/Layouter/Wizards/New layout
+shell/Applications/Layouts/Layouter/Wizards/New layout/New layout.xml
+shell/Applications/Layouts/Layouter/Wizards/New layout/index.html
+shell/Applications/Layouts/Layouter/Wizards/New sublayout
+shell/Applications/Layouts/Layouter/Wizards/New sublayout/New sublayout.xml
+shell/Applications/Layouts/Layouter/Wizards/New sublayout/index.html
+shell/Applications/Layouts/Layouter/Wizards/index.html
+shell/Applications/Layouts/Layouter/index.html
+shell/Applications/Layouts/PageDesigner
+shell/Applications/Layouts/PageDesigner/Commands
+shell/Applications/Layouts/PageDesigner/Commands/index.html
+shell/Applications/Layouts/PageDesigner/PageDesigner.css
+shell/Applications/Layouts/PageDesigner/PageDesigner.js
+shell/Applications/Layouts/PageDesigner/PageDesigner.xaml.xml
+shell/Applications/Layouts/PageDesigner/PageDesignerAdd.css
+shell/Applications/Layouts/PageDesigner/PageDesignerAdd.xaml.xml
+shell/Applications/Layouts/PageDesigner/PageDesignerNew.css
+shell/Applications/Layouts/PageDesigner/PageDesignerNew.js
+shell/Applications/Layouts/PageDesigner/PageDesignerNew.xaml.xml
+shell/Applications/Layouts/PageDesigner/PageDesignerNoLayout.xaml.xml
+shell/Applications/Layouts/PageDesigner/Panels
+shell/Applications/Layouts/PageDesigner/Panels/index.html
+shell/Applications/Layouts/PageDesigner/index.html
+shell/Applications/Layouts/RenderingLister
+shell/Applications/Layouts/RenderingLister/RenderingLister.xml
+shell/Applications/Layouts/RenderingLister/index.html
+shell/Applications/Layouts/index.html
+shell/Applications/Licenses
+shell/Applications/Licenses/LicenseDetails
+shell/Applications/Licenses/LicenseDetails/LicenseDetails.xml
+shell/Applications/Licenses/LicenseDetails/index.html
+shell/Applications/Licenses/LicenseOverview
+shell/Applications/Licenses/LicenseOverview/LicenseOverview.xml
+shell/Applications/Licenses/LicenseOverview/index.html
+shell/Applications/Licenses/index.html
+shell/Applications/Links
+shell/Applications/Links/BreakingLinks
+shell/Applications/Links/BreakingLinks/BreakingLinks.xml
+shell/Applications/Links/BreakingLinks/index.html
+shell/Applications/Links/EditLinks
+shell/Applications/Links/EditLinks/EditLinks.css
+shell/Applications/Links/EditLinks/EditLinks.xml
+shell/Applications/Links/EditLinks/index.html
+shell/Applications/Links/Fix links
+shell/Applications/Links/Fix links/Fix links.xml
+shell/Applications/Links/Fix links/index.html
+shell/Applications/Links/Update links
+shell/Applications/Links/Update links/Update links.xml
+shell/Applications/Links/Update links/index.html
+shell/Applications/Links/index.html
+shell/Applications/Login
+shell/Applications/Login/System page.css
+shell/Applications/Login/System page.xml
+shell/Applications/Login/Users
+shell/Applications/Login/Users/Kick.aspx
+shell/Applications/Login/Users/Users.aspx
+shell/Applications/Login/Users/Users.xml
+shell/Applications/Login/Users/grid.css
+shell/Applications/Login/Users/index.html
+shell/Applications/Login/index.html
+shell/Applications/Masters
+shell/Applications/Masters/AddFromMaster
+shell/Applications/Masters/AddFromMaster/AddFromMaster.xml
+shell/Applications/Masters/AddFromMaster/index.html
+shell/Applications/Masters/MasterLister
+shell/Applications/Masters/MasterLister/MasterLister.xml
+shell/Applications/Masters/MasterLister/index.html
+shell/Applications/Masters/index.html
+shell/Applications/Media
+shell/Applications/Media/File item viewer
+shell/Applications/Media/File item viewer/File item viewer open.xml
+shell/Applications/Media/File item viewer/File item viewer.xml
+shell/Applications/Media/File item viewer/index.html
+shell/Applications/Media/FlashRequired
+shell/Applications/Media/FlashRequired/FlashRequired.xaml.xml
+shell/Applications/Media/FlashRequired/index.html
+shell/Applications/Media/Image item viewer
+shell/Applications/Media/Image item viewer/Image item viewer.xml
+shell/Applications/Media/Image item viewer/index.html
+shell/Applications/Media/ImageProperties
+shell/Applications/Media/ImageProperties/ImageProperties.xaml.xml
+shell/Applications/Media/ImageProperties/index.html
+shell/Applications/Media/Imager
+shell/Applications/Media/Imager/Image resize.xml
+shell/Applications/Media/Imager/Imager.js
+shell/Applications/Media/Imager/Imager.xml
+shell/Applications/Media/Imager/index.html
+shell/Applications/Media/MediaBrowser
+shell/Applications/Media/MediaBrowser/MediaBrowser.xml
+shell/Applications/Media/MediaBrowser/index.html
+shell/Applications/Media/MediaFolder
+shell/Applications/Media/MediaFolder/Dialogs
+shell/Applications/Media/MediaFolder/Dialogs/About
+shell/Applications/Media/MediaFolder/Dialogs/About/About.xml
+shell/Applications/Media/MediaFolder/Dialogs/About/index.html
+shell/Applications/Media/MediaFolder/Dialogs/AnchorLink
+shell/Applications/Media/MediaFolder/Dialogs/AnchorLink/AnchorLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/AnchorLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Archive item
+shell/Applications/Media/MediaFolder/Dialogs/Archive item/Archive date.xml
+shell/Applications/Media/MediaFolder/Dialogs/Archive item/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Attach
+shell/Applications/Media/MediaFolder/Dialogs/Attach/Attach.aspx
+shell/Applications/Media/MediaFolder/Dialogs/Attach/Attach.xml
+shell/Applications/Media/MediaFolder/Dialogs/Attach/Attach2.aspx
+shell/Applications/Media/MediaFolder/Dialogs/Attach/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Boost
+shell/Applications/Media/MediaFolder/Dialogs/Boost/Boost.xml
+shell/Applications/Media/MediaFolder/Dialogs/Boost/index.html
+shell/Applications/Media/MediaFolder/Dialogs/ContinueAlwaysAbort
+shell/Applications/Media/MediaFolder/Dialogs/ContinueAlwaysAbort/ContinueAlwaysAbort.xml
+shell/Applications/Media/MediaFolder/Dialogs/ContinueAlwaysAbort/index.html
+shell/Applications/Media/MediaFolder/Dialogs/CopyTo
+shell/Applications/Media/MediaFolder/Dialogs/CopyTo/CopyTo.xml
+shell/Applications/Media/MediaFolder/Dialogs/CopyTo/index.html
+shell/Applications/Media/MediaFolder/Dialogs/CustomizeRibbon
+shell/Applications/Media/MediaFolder/Dialogs/CustomizeRibbon/CustomizeRibbon.xml
+shell/Applications/Media/MediaFolder/Dialogs/CustomizeRibbon/index.html
+shell/Applications/Media/MediaFolder/Dialogs/DesktopLink
+shell/Applications/Media/MediaFolder/Dialogs/DesktopLink/DesktopLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/DesktopLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Diff
+shell/Applications/Media/MediaFolder/Dialogs/Diff/Diff.css
+shell/Applications/Media/MediaFolder/Dialogs/Diff/Diff.xml
+shell/Applications/Media/MediaFolder/Dialogs/Diff/index.html
+shell/Applications/Media/MediaFolder/Dialogs/ExternalLink
+shell/Applications/Media/MediaFolder/Dialogs/ExternalLink/ExternalLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/ExternalLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Folders
+shell/Applications/Media/MediaFolder/Dialogs/Folders/index.html
+shell/Applications/Media/MediaFolder/Dialogs/InsertLink
+shell/Applications/Media/MediaFolder/Dialogs/InsertLink/InsertLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/InsertLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/InternalLink
+shell/Applications/Media/MediaFolder/Dialogs/InternalLink/InternalLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/InternalLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/ItemLister
+shell/Applications/Media/MediaFolder/Dialogs/ItemLister/ItemLister.xml
+shell/Applications/Media/MediaFolder/Dialogs/ItemLister/index.html
+shell/Applications/Media/MediaFolder/Dialogs/JavascriptLink
+shell/Applications/Media/MediaFolder/Dialogs/JavascriptLink/JavascriptLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/JavascriptLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/MailLink
+shell/Applications/Media/MediaFolder/Dialogs/MailLink/MailLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/MailLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/MediaLink
+shell/Applications/Media/MediaFolder/Dialogs/MediaLink/MediaLink.xml
+shell/Applications/Media/MediaFolder/Dialogs/MediaLink/index.html
+shell/Applications/Media/MediaFolder/Dialogs/MoveTo
+shell/Applications/Media/MediaFolder/Dialogs/MoveTo/MoveTo.xml
+shell/Applications/Media/MediaFolder/Dialogs/MoveTo/index.html
+shell/Applications/Media/MediaFolder/Dialogs/NewFolder1
+shell/Applications/Media/MediaFolder/Dialogs/NewFolder1/index.html
+shell/Applications/Media/MediaFolder/Dialogs/OrganizeFavorites
+shell/Applications/Media/MediaFolder/Dialogs/OrganizeFavorites/OrganizeFavorites.xml
+shell/Applications/Media/MediaFolder/Dialogs/OrganizeFavorites/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Progress
+shell/Applications/Media/MediaFolder/Dialogs/Progress/ProgressDialog.css
+shell/Applications/Media/MediaFolder/Dialogs/Progress/ProgressDialog.js
+shell/Applications/Media/MediaFolder/Dialogs/Progress/ProgressDialog.xaml.xml
+shell/Applications/Media/MediaFolder/Dialogs/Progress/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Publish
+shell/Applications/Media/MediaFolder/Dialogs/Publish/Publish.xml
+shell/Applications/Media/MediaFolder/Dialogs/Publish/index.html
+shell/Applications/Media/MediaFolder/Dialogs/PublishingViewer
+shell/Applications/Media/MediaFolder/Dialogs/PublishingViewer/PublishingViewer.xml
+shell/Applications/Media/MediaFolder/Dialogs/PublishingViewer/index.html
+shell/Applications/Media/MediaFolder/Dialogs/RebuildLinkDatabase
+shell/Applications/Media/MediaFolder/Dialogs/RebuildLinkDatabase/RebuildLinkDatabase.xml
+shell/Applications/Media/MediaFolder/Dialogs/RebuildLinkDatabase/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Reminder
+shell/Applications/Media/MediaFolder/Dialogs/Reminder/Reminder.xml
+shell/Applications/Media/MediaFolder/Dialogs/Reminder/index.html
+shell/Applications/Media/MediaFolder/Dialogs/SelectItem
+shell/Applications/Media/MediaFolder/Dialogs/SelectItem/SelectItem.xml
+shell/Applications/Media/MediaFolder/Dialogs/SelectItem/index.html
+shell/Applications/Media/MediaFolder/Dialogs/SelectRendering
+shell/Applications/Media/MediaFolder/Dialogs/SelectRendering/SelectRendering.xml
+shell/Applications/Media/MediaFolder/Dialogs/SelectRendering/index.html
+shell/Applications/Media/MediaFolder/Dialogs/TransferToDatabase
+shell/Applications/Media/MediaFolder/Dialogs/TransferToDatabase/TransferToDatabase.xml
+shell/Applications/Media/MediaFolder/Dialogs/TransferToDatabase/index.html
+shell/Applications/Media/MediaFolder/Dialogs/Upload
+shell/Applications/Media/MediaFolder/Dialogs/Upload/Upload.aspx
+shell/Applications/Media/MediaFolder/Dialogs/Upload/Upload.xml
+shell/Applications/Media/MediaFolder/Dialogs/Upload/Upload2.aspx
+shell/Applications/Media/MediaFolder/Dialogs/Upload/index.html
+shell/Applications/Media/MediaFolder/Dialogs/YesNoCancel
+shell/Applications/Media/MediaFolder/Dialogs/YesNoCancel/YesNoCancel.xml
+shell/Applications/Media/MediaFolder/Dialogs/YesNoCancel/YesNoCancelAll.xml
+shell/Applications/Media/MediaFolder/Dialogs/YesNoCancel/index.html
+shell/Applications/Media/MediaFolder/Dialogs/index.html
+shell/Applications/Media/MediaFolder/MediaFolder.js
+shell/Applications/Media/MediaFolder/MediaFolder.xml
+shell/Applications/Media/MediaFolder/index.html
+shell/Applications/Media/MediaPlayer
+shell/Applications/Media/MediaPlayer/MediaPlayer.aspx
+shell/Applications/Media/MediaPlayer/index.html
+shell/Applications/Media/MediaShop
+shell/Applications/Media/MediaShop/MediaListviewItem.xml
+shell/Applications/Media/MediaShop/MediaShop Preview Portlet.xml
+shell/Applications/Media/MediaShop/MediaShop.xml
+shell/Applications/Media/MediaShop/default.aspx
+shell/Applications/Media/MediaShop/index.html
+shell/Applications/Media/Upload Media
+shell/Applications/Media/Upload Media/UploadMedia.aspx
+shell/Applications/Media/Upload Media/UploadMedia.xml
+shell/Applications/Media/Upload Media/UploadMedia2.aspx
+shell/Applications/Media/Upload Media/index.html
+shell/Applications/Media/UploadManager
+shell/Applications/Media/UploadManager/Result.aspx
+shell/Applications/Media/UploadManager/Result.aspx.js
+shell/Applications/Media/UploadManager/Upload.aspx
+shell/Applications/Media/UploadManager/Upload.aspx.js
+shell/Applications/Media/UploadManager/UploadManager.aspx
+shell/Applications/Media/UploadManager/Uploading.aspx
+shell/Applications/Media/UploadManager/index.html
+shell/Applications/Media/index.html
+shell/Applications/Portlets
+shell/Applications/Portlets/Portal configurator
+shell/Applications/Portlets/Portal configurator/Portal configurator.xml
+shell/Applications/Portlets/Portal configurator/index.html
+shell/Applications/Portlets/index.html
+shell/Applications/Preview
+shell/Applications/Preview.aspx
+shell/Applications/Preview/Portlets
+shell/Applications/Preview/Portlets/Preview date
+shell/Applications/Preview/Portlets/Preview date/Preview date portlet.xml
+shell/Applications/Preview/Portlets/Preview date/index.html
+shell/Applications/Preview/Portlets/Preview toolbar portlet
+shell/Applications/Preview/Portlets/Preview toolbar portlet/Preview toolbar portlet.xml
+shell/Applications/Preview/Portlets/Preview toolbar portlet/index.html
+shell/Applications/Preview/Portlets/index.html
+shell/Applications/Preview/Preview content editor.xml
+shell/Applications/Preview/Preview menu page.xml
+shell/Applications/Preview/Preview menu.xml
+shell/Applications/Preview/index.html
+shell/Applications/Reports
+shell/Applications/Reports/LogViewer
+shell/Applications/Reports/LogViewer/LogViewer.xml
+shell/Applications/Reports/LogViewer/LogViewer.xsl
+shell/Applications/Reports/LogViewer/LogViewerDetails.xml
+shell/Applications/Reports/LogViewer/index.html
+shell/Applications/Reports/index.html
+shell/Applications/Scheduled Tasks
+shell/Applications/Scheduled Tasks/New Schedule
+shell/Applications/Scheduled Tasks/New Schedule Command
+shell/Applications/Scheduled Tasks/New Schedule Command/New Schedule Command.xml
+shell/Applications/Scheduled Tasks/New Schedule Command/index.html
+shell/Applications/Scheduled Tasks/New Schedule/New Schedule.xml
+shell/Applications/Scheduled Tasks/New Schedule/index.html
+shell/Applications/Scheduled Tasks/Scheduled Tasks
+shell/Applications/Scheduled Tasks/Scheduled Tasks/Scheduled Tasks.xml
+shell/Applications/Scheduled Tasks/Scheduled Tasks/index.html
+shell/Applications/Scheduled Tasks/index.html
+shell/Applications/Search
+shell/Applications/Search/Instant
+shell/Applications/Search/Instant/Commands
+shell/Applications/Search/Instant/Commands/index.html
+shell/Applications/Search/Instant/InstantSearch.aspx
+shell/Applications/Search/Instant/InstantSearch.css
+shell/Applications/Search/Instant/InstantSearch.js
+shell/Applications/Search/Instant/index.html
+shell/Applications/Search/RebuildSearchIndex
+shell/Applications/Search/RebuildSearchIndex/RebuildSearchIndex.xml
+shell/Applications/Search/RebuildSearchIndex/index.html
+shell/Applications/Search/Search
+shell/Applications/Search/Search/Search advanced.xml
+shell/Applications/Search/Search/Search.css
+shell/Applications/Search/Search/Search.xml
+shell/Applications/Search/Search/index.html
+shell/Applications/Search/index.html
+shell/Applications/Security
+shell/Applications/Security/AccessViewer
+shell/Applications/Security/AccessViewer/AccessViewer.xml
+shell/Applications/Security/AccessViewer/SecurityLegend.xml
+shell/Applications/Security/AccessViewer/SelectColumns.xaml.xml
+shell/Applications/Security/AccessViewer/index.html
+shell/Applications/Security/ChangePassword
+shell/Applications/Security/ChangePassword/changepassword.aspx
+shell/Applications/Security/ChangePassword/index.html
+shell/Applications/Security/CreateNewUser
+shell/Applications/Security/CreateNewUser/CreateNewUser.aspx
+shell/Applications/Security/CreateNewUser/index.html
+shell/Applications/Security/DomainManager
+shell/Applications/Security/DomainManager/DomainManager.aspx
+shell/Applications/Security/DomainManager/EditDomain.xaml.xml
+shell/Applications/Security/DomainManager/NewDomain.xaml.xml
+shell/Applications/Security/DomainManager/index.html
+shell/Applications/Security/EditManagedDomains
+shell/Applications/Security/EditManagedDomains/EditManagedDomains.xaml.xml
+shell/Applications/Security/EditManagedDomains/index.html
+shell/Applications/Security/EditUser
+shell/Applications/Security/EditUser/EditUser.xaml.xml
+shell/Applications/Security/EditUser/index.html
+shell/Applications/Security/ItemSecurityEditor
+shell/Applications/Security/ItemSecurityEditor/ItemSecurityEditor.css
+shell/Applications/Security/ItemSecurityEditor/ItemSecurityEditor.js
+shell/Applications/Security/ItemSecurityEditor/ItemSecurityEditor.xaml.xml
+shell/Applications/Security/ItemSecurityEditor/index.html
+shell/Applications/Security/RoleManager
+shell/Applications/Security/RoleManager/NewRole.xaml.xml
+shell/Applications/Security/RoleManager/RoleManager.aspx
+shell/Applications/Security/RoleManager/ViewMembers.xaml.xml
+shell/Applications/Security/RoleManager/ViewParentRoles.xaml.xml
+shell/Applications/Security/RoleManager/index.html
+shell/Applications/Security/SecurityDetails
+shell/Applications/Security/SecurityDetails/SecurityDetails.css
+shell/Applications/Security/SecurityDetails/SecurityDetails.xaml.xml
+shell/Applications/Security/SecurityDetails/index.html
+shell/Applications/Security/SecurityEditor
+shell/Applications/Security/SecurityEditor/SecurityEditor.js
+shell/Applications/Security/SecurityEditor/SecurityEditor.xml
+shell/Applications/Security/SecurityEditor/SelectColumns.xaml.xml
+shell/Applications/Security/SecurityEditor/index.html
+shell/Applications/Security/SelectAccount
+shell/Applications/Security/SelectAccount/SelectAccount.xaml.xml
+shell/Applications/Security/SelectAccount/index.html
+shell/Applications/Security/SelectRoles
+shell/Applications/Security/SelectRoles/SelectRoles.xaml.xml
+shell/Applications/Security/SelectRoles/index.html
+shell/Applications/Security/SetOwner
+shell/Applications/Security/SetOwner/SetOwner.xaml.xml
+shell/Applications/Security/SetOwner/index.html
+shell/Applications/Security/SetPassword
+shell/Applications/Security/SetPassword/SetPassword.xaml.xml
+shell/Applications/Security/SetPassword/index.html
+shell/Applications/Security/UserManager
+shell/Applications/Security/UserManager/UserManager.aspx
+shell/Applications/Security/UserManager/index.html
+shell/Applications/Security/index.html
+shell/Applications/Shell.xml
+shell/Applications/Startbar
+shell/Applications/Startbar/Clock.js
+shell/Applications/Startbar/Startbar.xml
+shell/Applications/Startbar/index.html
+shell/Applications/Templates
+shell/Applications/Templates/AddFromTemplate
+shell/Applications/Templates/AddFromTemplate/AddFromTemplate.xml
+shell/Applications/Templates/AddFromTemplate/AddFromTemplate.xml.js
+shell/Applications/Templates/AddFromTemplate/index.html
+shell/Applications/Templates/ChangeTemplate
+shell/Applications/Templates/ChangeTemplate/ChangeTemplate.xml
+shell/Applications/Templates/ChangeTemplate/index.html
+shell/Applications/Templates/CreateTemplate
+shell/Applications/Templates/CreateTemplate/CreateTemplate.xml
+shell/Applications/Templates/CreateTemplate/index.html
+shell/Applications/Templates/SetBaseTemplates
+shell/Applications/Templates/SetBaseTemplates/SetBaseTemplates.xml
+shell/Applications/Templates/SetBaseTemplates/index.html
+shell/Applications/Templates/TemplateBuilder
+shell/Applications/Templates/TemplateBuilder/TemplateBuilder.js
+shell/Applications/Templates/TemplateBuilder/TemplateBuilder.xml
+shell/Applications/Templates/TemplateBuilder/TemplateBuilder.xml.js
+shell/Applications/Templates/TemplateBuilder/index.html
+shell/Applications/Templates/TemplateInheritance
+shell/Applications/Templates/TemplateInheritance/TemplateInheritance.xml
+shell/Applications/Templates/TemplateInheritance/index.html
+shell/Applications/Templates/TemplateLister
+shell/Applications/Templates/TemplateLister/Template lister.xml
+shell/Applications/Templates/TemplateLister/index.html
+shell/Applications/Templates/TemplateManager
+shell/Applications/Templates/TemplateManager/TemplateManager.xml
+shell/Applications/Templates/TemplateManager/default.aspx
+shell/Applications/Templates/TemplateManager/index.html
+shell/Applications/Templates/TemplateWorkspace
+shell/Applications/Templates/TemplateWorkspace/TemplateWorkspaceBaseTemplates.xml
+shell/Applications/Templates/TemplateWorkspace/TemplateWorkspaceMasters.xml
+shell/Applications/Templates/TemplateWorkspace/index.html
+shell/Applications/Templates/TemplatesFolder
+shell/Applications/Templates/TemplatesFolder/TemplatesFolder.xml
+shell/Applications/Templates/TemplatesFolder/index.html
+shell/Applications/Templates/index.html
+shell/Applications/Tools
+shell/Applications/Tools/Broken links
+shell/Applications/Tools/Broken links/Broken link details.xml
+shell/Applications/Tools/Broken links/Broken links.xml
+shell/Applications/Tools/Broken links/index.html
+shell/Applications/Tools/Keyboard map
+shell/Applications/Tools/Keyboard map/Keyboard map.xml
+shell/Applications/Tools/Keyboard map/index.html
+shell/Applications/Tools/Run
+shell/Applications/Tools/Run/Run.xml
+shell/Applications/Tools/Run/index.html
+shell/Applications/Tools/index.html
+shell/Applications/WebEdit
+shell/Applications/WebEdit.aspx
+shell/Applications/WebEdit/Commands
+shell/Applications/WebEdit/Commands/index.html
+shell/Applications/WebEdit/WebEdit.js
+shell/Applications/WebEdit/WebEditDialog.css
+shell/Applications/WebEdit/WebEditElement.js
+shell/Applications/WebEdit/WebEditRibbon.aspx
+shell/Applications/WebEdit/WebEditRibbon.css
+shell/Applications/WebEdit/WebEditRibbon.js
+shell/Applications/WebEdit/index.html
+shell/Applications/WebForm1.aspx
+shell/Applications/Xaml
+shell/Applications/Xaml/Button.xaml.xml
+shell/Applications/Xaml/Commander
+shell/Applications/Xaml/Commander/ContentCommander.xaml.xml
+shell/Applications/Xaml/Commander/ContentCommander.xaml.xml.js
+shell/Applications/Xaml/Commander/Dockpanel.xaml.xml
+shell/Applications/Xaml/Commander/HtmlPage.xaml.xml
+shell/Applications/Xaml/Commander/Pane.xaml.xml
+shell/Applications/Xaml/Commander/XhtmlPage.xaml.xml
+shell/Applications/Xaml/Commander/index.html
+shell/Applications/Xaml/Hello.xaml.xml
+shell/Applications/Xaml/Styles.xaml.xml
+shell/Applications/Xaml/Tutorials.Ajax.xaml.xml
+shell/Applications/Xaml/Tutorials.Basic.xaml.xml
+shell/Applications/Xaml/Tutorials.Common.xaml.xml
+shell/Applications/Xaml/Tutorials.Index.xaml.xml
+shell/Applications/Xaml/Tutorials.Language.xaml.xml
+shell/Applications/Xaml/Tutorials.Server.xaml.xml
+shell/Applications/Xaml/Tutorials.Styles.xaml.xml
+shell/Applications/Xaml/Tutorials.xaml.css
+shell/Applications/Xaml/WebControl.xaml.xml
+shell/Applications/Xaml/index.html
+shell/Applications/blank.html
+shell/Applications/debug
+shell/Applications/debug/content manager.dialogs.layoutdetails.layoutdetails.cs
+shell/Applications/debug/content manager.dialogs.properties.properties.cs
+shell/Applications/debug/content manager.dialogs.properties.systemmenu archive.cs
+shell/Applications/debug/content manager.dialogs.properties.systemmenu information.cs
+shell/Applications/debug/content manager.dialogs.properties.systemmenu reminder.cs
+shell/Applications/debug/content manager.dialogs.properties.systemmenu statistics.cs
+shell/Applications/debug/content manager.dialogs.properties.systemmenu workflow.cs
+shell/Applications/debug/content manager.dialogs.set icon.set icon.cs
+shell/Applications/debug/content manager.dialogs.set publishing.set publishing.cs
+shell/Applications/debug/content manager.dialogs.set subitems sorting.set subitems sorting.cs
+shell/Applications/debug/content manager.dialogs.setmasters.setmasters.cs
+shell/Applications/debug/content manager.galleries.archives.gallery archive.cs
+shell/Applications/debug/content manager.galleries.gallery grip.cs
+shell/Applications/debug/content manager.galleries.gallery.cs
+shell/Applications/debug/content manager.galleries.languages.gallery languages.cs
+shell/Applications/debug/content manager.galleries.languages.gallery languages.option.cs
+shell/Applications/debug/content manager.galleries.layoutpresets.gallerylayoutpresets.cs
+shell/Applications/debug/content manager.galleries.new.gallery new.cs
+shell/Applications/debug/content manager.galleries.workflowedit.galleryworkflowedit.cs
+shell/Applications/debug/content manager.richtext.rich text editor.cs
+shell/Applications/debug/controlpanel.controlpanel.controlpanel.cs
+shell/Applications/debug/controlpanel.preferences.regionalsettings.regionalsettings.cs
+shell/Applications/debug/controlpanel.preferences.useroptions.useroptions.cs
+shell/Applications/debug/databases.cleanup.cleanup.cs
+shell/Applications/debug/databases.databaseusage.databaseusage.cs
+shell/Applications/debug/ducatshell.cs
+shell/Applications/debug/files.fileexplorer.fileexplorer.cs
+shell/Applications/debug/index.html
+shell/Applications/debug/install.controls.behaviouroptioneditor.cs
+shell/Applications/debug/install.controls.editorhost.cs
+shell/Applications/debug/install.controls.metadata.customattributeseditor.cs
+shell/Applications/debug/install.controls.metadata.metadataeditor.cs
+shell/Applications/debug/install.controls.projectview.cs
+shell/Applications/debug/install.controls.source editors.explicititemsourceeditor.cs
+shell/Applications/debug/install.controls.source editors.listsourceeditor.cs
+shell/Applications/debug/install.controls.source editors.nameeditor.cs
+shell/Applications/debug/install.controls.source editors.sourceoutputeditor.cs
+shell/Applications/debug/install.controls.source editors.sourceviewer.cs
+shell/Applications/debug/install.controls.widgets.fieldset.cs
+shell/Applications/debug/install.designer.cs
+shell/Applications/debug/install.dialogs.build package.buildpackage.cs
+shell/Applications/debug/install.dialogs.install package.install package.cs
+shell/Applications/debug/install.dialogs.static.addstaticitemsourcedialog.cs
+shell/Applications/debug/install.dialogs.upload package.uploadpackage.cs
+shell/Applications/debug/itembrowser.itembrowser.cs
+shell/Applications/debug/layouts.deviceeditor.copydeviceto.cs
+shell/Applications/debug/layouts.deviceeditor.deviceeditor.cs
+shell/Applications/debug/layouts.deviceeditor.devicerendering.cs
+shell/Applications/debug/layouts.deviceeditor.layoutfielddevice.cs
+shell/Applications/debug/layouts.deviceeditor.renderingeditor.cs
+shell/Applications/debug/layouts.ide.dialogs.rendering properties.ide rendering properties.cs
+shell/Applications/debug/layouts.ide.editors.html.ide html editor control.cs.html
+shell/Applications/debug/layouts.ide.editors.html.ide html editor controls control.cs.html
+shell/Applications/debug/layouts.ide.editors.html.ide html editor controls placeholder.cs.html
+shell/Applications/debug/layouts.ide.editors.html.ide html editor.cs.html
+shell/Applications/debug/layouts.ide.editors.startpage.ide startpage.cs
+shell/Applications/debug/layouts.ide.editors.startpage.ide.taskoption.cs
+shell/Applications/debug/layouts.ide.editors.startpage.portlets.common tasks.ide common tasks portlet.cs
+shell/Applications/debug/layouts.ide.editors.startpage.portlets.getting started.ide getting started portlet.cs
+shell/Applications/debug/layouts.ide.editors.startpage.portlets.recent files.ide recent files portlet.cs
+shell/Applications/debug/layouts.ide.editors.xslt.ide xslt.cs
+shell/Applications/debug/layouts.ide.ide.cs
+shell/Applications/debug/layouts.ide.windows.content explorer.ide content explorer.cs
+shell/Applications/debug/layouts.ide.windows.media library.ide media library.cs
+shell/Applications/debug/layouts.ide.windows.solution explorer.ide solution explorer.cs
+shell/Applications/debug/layouts.ide.windows.templates.ide templates.cs
+shell/Applications/debug/layouts.ide.windows.toolbox.ide toolbox pane.cs
+shell/Applications/debug/layouts.ide.windows.toolbox.ide toolbox.cs
+shell/Applications/debug/layouts.ide.wizards.new file wizard.ide new file wizard.cs
+shell/Applications/debug/licenses.licensedetails.licensedetails.cs
+shell/Applications/debug/licenses.licenseoverview.licenseoverview.cs
+shell/Applications/debug/links.breakinglinks.breakinglinks.cs
+shell/Applications/debug/links.editlinks.editlinks.cs
+shell/Applications/debug/media.imager.imager.cs
+shell/Applications/debug/media.mediabrowser.mediabrowser.cs
+shell/Applications/debug/media.mediafolder.dialogs.about.about.cs
+shell/Applications/debug/media.mediafolder.dialogs.anchorlink.anchorlink.cs
+shell/Applications/debug/media.mediafolder.dialogs.copyto.copyto.cs
+shell/Applications/debug/media.mediafolder.dialogs.externallink.externallink.cs
+shell/Applications/debug/media.mediafolder.dialogs.internallink.internallink.cs
+shell/Applications/debug/media.mediafolder.dialogs.itemlister.itemlister.cs
+shell/Applications/debug/media.mediafolder.dialogs.medialink.medialink.cs
+shell/Applications/debug/media.mediafolder.dialogs.publish.publish.cs
+shell/Applications/debug/media.mediafolder.dialogs.publishingviewer.publishingviewer.cs
+shell/Applications/debug/media.mediafolder.dialogs.rebuildlinkdatabase.rebuildlinkdatabase.cs
+shell/Applications/debug/media.mediafolder.dialogs.selectitem.selectitem.cs
+shell/Applications/debug/media.mediafolder.dialogs.transfertodatabase.transfertodatabase.cs
+shell/Applications/debug/media.mediafolder.dialogs.yesnocancel.yesnocancel.cs
+shell/Applications/debug/media.mediafolder.mediafolder.cs
+shell/Applications/debug/media.upload media.uploadmedia.cs
+shell/Applications/debug/portlets.portal configurator.portal configurator.cs
+shell/Applications/debug/search.rebuildsearchindex.rebuildsearchindex.cs
+shell/Applications/debug/search.search.search.cs
+shell/Applications/debug/security.accessviewer.accessviewer.cs
+shell/Applications/debug/security.accessviewer.securitylegend.cs
+shell/Applications/debug/security.securityeditor.securityeditor.cs
+shell/Applications/debug/shell.cs
+shell/Applications/debug/startbar.startbar.cs
+shell/Applications/debug/templates.addfromtemplate.addfromtemplate.cs
+shell/Applications/debug/templates.changetemplate.changetemplate.cs
+shell/Applications/debug/templates.templatebuilder.templatebuilder.cs
+shell/Applications/debug/templates.templateinheritance.templateinheritance.cs
+shell/Applications/debug/tools.run.run.cs
+shell/Applications/debug/webedit.dialogs.addmaster.addmaster.cs
+shell/Applications/debug/workbox.workbox.cs
+shell/Applications/debug/workbox.workboxcommand.cs
+shell/Applications/index.html
+shell/Invoke.aspx
+shell/Security templates.xml
+shell/blank.html
+shell/default.aspx
+shell/download.aspx
+shell/index.html
+shell/prompt.html
+shell/sitecore.version.xml
