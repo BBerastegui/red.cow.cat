@@ -748,7 +748,6 @@
 .zip
 .zsh_history
 .zshrc
-/笠勝電子有限公司-找工作機會-68848493.htm
 /*&pm*
 /*&print=
 /*&st*
@@ -920,6 +919,11 @@
 /annuaire-professio
 /api
 /api.php
+/api/swagger-ui.html
+/api/v1
+/api/v1/swagger-ui.html
+/api/v2
+/api/v2/swagger-ui.html
 /appointment
 /apps
 /archive
@@ -1471,6 +1475,9 @@
 /survey.php
 /survey/SurveyFiles
 /survey/importCarownerData.aspx
+/swagger-ui.html
+/swagger/index.html
+/swagger/swagger-ui.html
 /sycg2009
 /sycon
 /sydh
@@ -1564,8 +1571,12 @@
 /usr-bin
 /uuseeimg
 /v
+/v1
+/v1/swagger-ui.html
 /v1_home/*
 /v1_popup/*
+/v2
+/v2/swagger-ui.html
 /v3_index/wrong.html
 /v3_login/qzonelogin.html
 /v3_specialnr
@@ -1691,6 +1702,7 @@
 /zulin/admin
 /zxjc
 /~
+/笠勝電子有限公司-找工作機會-68848493.htm
 0
 0,,5287926,00.html
 0,,5293725,00.html
