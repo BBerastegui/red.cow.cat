@@ -1,0 +1,33 @@
+AI
+IoT
+VR
+agnostic
+artificial intelligence
+at scale
+big-data
+blockchain
+bootstraping
+cloud
+compliance
+continuous delivery/development/integration
+cutting/bleeding edge
+cyber
+data-driven
+deep learning
+deployment
+disruption
+distributed
+edge computing
+empower
+environment
+growth hacker
+holistic
+inmutable
+machine learning
+pipeline
+restful
+seamless
+serverless
+stateless
+trust
+userless
